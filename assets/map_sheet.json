@@ -1,0 +1,9299 @@
+{
+  "0": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "2": {
+    "Texture": "f1t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "3": {
+    "Texture": "f1t2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "4": {
+    "Texture": "f1f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "5": {
+    "Texture": "f1f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "6": {
+    "Texture": "f1f3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "7": {
+    "Texture": "f1f4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "8": {
+    "Texture": "f1d1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 300
+  },
+  "9": {
+    "Texture": "f1r1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "10": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "11": {
+    "Texture": "s1t1_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "12": {
+    "Texture": "s1t2_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "13": {
+    "Texture": "w1t1_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "14": {
+    "Texture": "w1t2_01",
+    "Name": "Merchant Strip",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "15": {
+    "Texture": "s1f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "16": {
+    "Texture": "s1f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "17": {
+    "Texture": "s1f3_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "18": {
+    "Texture": "s1f4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "19": {
+    "Texture": "s1f5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "20": {
+    "Texture": "w1f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "21": {
+    "Texture": "w1f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "22": {
+    "Texture": "w1f3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "23": {
+    "Texture": "w1f4_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "24": {
+    "Texture": "w1f5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "25": {
+    "Texture": "l1f1_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "26": {
+    "Texture": "s1ti_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "27": {
+    "Texture": "w1ti_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "28": {
+    "Texture": "f1ti_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "29": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "30": {
+    "Texture": "s1f6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "31": {
+    "Texture": "s1d1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "32": {
+    "Texture": "s1d3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "33": {
+    "Texture": "s1fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "34": {
+    "Texture": "w1d1_01",
+    "Name": "Ground Level",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "35": {
+    "Texture": "w1fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "36": {
+    "Texture": "f1fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "37": {
+    "Texture": "r1d1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "38": {
+    "Texture": "r1r2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "39": {
+    "Texture": "r1fa_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "40": {
+    "Texture": "w1d1_02",
+    "Name": "First Drop",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "41": {
+    "Texture": "w1d1_03",
+    "Name": "B2",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "42": {
+    "Texture": "w1d3_01",
+    "Name": "Sanctum Entrance",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "43": {
+    "Texture": "w1d3_02",
+    "Name": "Inner Sanctum",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "44": {
+    "Texture": "w1d3_03",
+    "Name": "Lower Sanctum",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "45": {
+    "Texture": "s1d2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "46": {
+    "Texture": "w1d2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "47": {
+    "Texture": "w1d4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "48": {
+    "Texture": "f1d2_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "49": {
+    "Texture": "f1d3_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "50": {
+    "Texture": "r1r1_01",
+    "Name": "Outer Hold",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "51": {
+    "Texture": "s1p1_00",
+    "Name": "",
+    "Center": {
+      "X": 77,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "52": {
+    "Texture": "w1r1_01",
+    "Name": "The Dry Sands",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "53": {
+    "Texture": "r1f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "54": {
+    "Texture": "f1d2_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "55": {
+    "Texture": "f1d2_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "56": {
+    "Texture": "w1d5_01",
+    "Name": "Sky Level",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "57": {
+    "Texture": "s1b1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "58": {
+    "Texture": "s1b2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "59": {
+    "Texture": "s1b4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "60": {
+    "Texture": "s1b5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "61": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "62": {
+    "Texture": "s1b3_01",
+    "Name": "Engine Room",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "63": {
+    "Texture": "s1b3_02",
+    "Name": "Compression Chamber",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "64": {
+    "Texture": "s1b3_03",
+    "Name": "Propellant Chamber",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "65": {
+    "Texture": "f1b3_01",
+    "Name": "Lower Decks",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "66": {
+    "Texture": "f1b3_02",
+    "Name": "Main Decks",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "67": {
+    "Texture": "f1b3_03",
+    "Name": "Upper Decks",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "68": {
+    "Texture": "f1e4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "69": {
+    "Texture": "f1e5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "70": {
+    "Texture": "w1t1_02",
+    "Name": "Airship Landing",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "71": {
+    "Texture": "l1r1_01",
+    "Name": "Lower Labyrinth",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "72": {
+    "Texture": "s1h1_01",
+    "Name": "Mist",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "73": {
+    "Texture": "w1t2_02",
+    "Name": "Hustings Strip",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "74": {
+    "Texture": "s1t1_02",
+    "Name": "Airship Landing",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "75": {
+    "Texture": "s1e4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "76": {
+    "Texture": "w1fa_10",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "77": {
+    "Texture": "n4gw_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "78": {
+    "Texture": "w1e4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "79": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "80": {
+    "Texture": "w1e6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "81": {
+    "Texture": "s1p2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "82": {
+    "Texture": "f1h1_01",
+    "Name": "The Lavender Beds",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "83": {
+    "Texture": "w1h1_01",
+    "Name": "The Goblet",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "84": {
+    "Texture": "f1d3_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "85": {
+    "Texture": "f1d3_03",
+    "Name": "Third Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "86": {
+    "Texture": "r1r1_02",
+    "Name": "Inner Hold",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "87": {
+    "Texture": "region_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "88": {
+    "Texture": "region_02",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "89": {
+    "Texture": "region_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "90": {
+    "Texture": "region_03",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "91": {
+    "Texture": "region_04",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "92": {
+    "Texture": "world_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "93": {
+    "Texture": "w1f4_02",
+    "Name": "Zanr\u0027ak",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "94": {
+    "Texture": "w1e6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "95": {
+    "Texture": "o1e2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "96": {
+    "Texture": "w1r1_02",
+    "Name": "The Wet Sands",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "97": {
+    "Texture": "w1r1_03",
+    "Name": "The Blue Sands",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "98": {
+    "Texture": "r1fa_02",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "99": {
+    "Texture": "w1d5_02",
+    "Name": "Castrum Control",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "100": {
+    "Texture": "w1d5_03",
+    "Name": "Castrum Defense",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "101": {
+    "Texture": "w1d5_04",
+    "Name": "Main Level",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "102": {
+    "Texture": "w1d5_05",
+    "Name": "Ground Level",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "103": {
+    "Texture": "w1d5_06",
+    "Name": "Research Level",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "104": {
+    "Texture": "w1d5_07",
+    "Name": "The Echelon",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "105": {
+    "Texture": "l1f1_02",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "106": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "107": {
+    "Texture": "w1e6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "108": {
+    "Texture": "s1d4_01",
+    "Name": "Flood Cellar",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "109": {
+    "Texture": "s1i1_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "110": {
+    "Texture": "s1i2_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "111": {
+    "Texture": "s1i2_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "112": {
+    "Texture": "s1i2_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "113": {
+    "Texture": "s1i3_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "114": {
+    "Texture": "s1i3_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "115": {
+    "Texture": "s1i3_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "116": {
+    "Texture": "f1i1_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "117": {
+    "Texture": "f1i2_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "118": {
+    "Texture": "f1i2_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "119": {
+    "Texture": "f1i2_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "120": {
+    "Texture": "f1i3_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "121": {
+    "Texture": "f1i3_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "122": {
+    "Texture": "f1i3_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "123": {
+    "Texture": "w1i1_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "124": {
+    "Texture": "w1i2_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "125": {
+    "Texture": "w1i2_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "126": {
+    "Texture": "w1i2_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "127": {
+    "Texture": "w1i3_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "128": {
+    "Texture": "w1i3_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "129": {
+    "Texture": "w1i3_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "130": {
+    "Texture": "s1d4_02",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "131": {
+    "Texture": "s1d4_03",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "132": {
+    "Texture": "s1d4_04",
+    "Name": "Third Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "133": {
+    "Texture": "s1d4_05",
+    "Name": "Fourth Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "134": {
+    "Texture": "s1d4_06",
+    "Name": "Fifth Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "135": {
+    "Texture": "l1r1_02",
+    "Name": "Upper Labyrinth",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "136": {
+    "Texture": "l1e1_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "137": {
+    "Texture": "f1d4_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "138": {
+    "Texture": "f1d4_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "139": {
+    "Texture": "f1d4_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "140": {
+    "Texture": "w1d6_01",
+    "Name": "Ground Level",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "141": {
+    "Texture": "w1d6_02",
+    "Name": "First Drop",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "142": {
+    "Texture": "w1d6_03",
+    "Name": "B2",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "143": {
+    "Texture": "w1fb_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "144": {
+    "Texture": "r1fb_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "145": {
+    "Texture": "w1d7_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "146": {
+    "Texture": "s1d6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "147": {
+    "Texture": "o1fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "148": {
+    "Texture": "f1b1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "149": {
+    "Texture": "f1b2_01",
+    "Name": "Incubation Bay",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "150": {
+    "Texture": "f1b4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "151": {
+    "Texture": "f1d5_01",
+    "Name": "Central Amdapor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "152": {
+    "Texture": "f1d5_02",
+    "Name": "Sanctum of Dreams",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "153": {
+    "Texture": "s1i1_02",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "154": {
+    "Texture": "f1i1_02",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "155": {
+    "Texture": "w1i1_02",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "156": {
+    "Texture": "f1b2_02",
+    "Name": "Monitoring Station ",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "157": {
+    "Texture": "r1d2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "158": {
+    "Texture": "l1r2_01",
+    "Name": "First Lower Ring",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "159": {
+    "Texture": "l1r2_02",
+    "Name": "Second Lower Ring",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "160": {
+    "Texture": "l1r2_03",
+    "Name": "Third Lower Ring",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "161": {
+    "Texture": "l1r2_04",
+    "Name": "First Central Ring",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "162": {
+    "Texture": "l1r2_05",
+    "Name": "Second Central Ring",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "163": {
+    "Texture": "l1r2_06",
+    "Name": "Third Central Ring",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "164": {
+    "Texture": "l1r2_07",
+    "Name": "Upper Ring",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "165": {
+    "Texture": "f1d6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 300
+  },
+  "166": {
+    "Texture": "f1fb_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "167": {
+    "Texture": "l1p3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "168": {
+    "Texture": "s1d5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "169": {
+    "Texture": "s1d7_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "170": {
+    "Texture": "s1i4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "171": {
+    "Texture": "f1i4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "172": {
+    "Texture": "w1i4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "173": {
+    "Texture": "r1fc_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "174": {
+    "Texture": "r1d3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "175": {
+    "Texture": "w1b1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "176": {
+    "Texture": "w1b2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "177": {
+    "Texture": "w1b3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "178": {
+    "Texture": "w1b4_00",
+    "Name": "",
+    "Center": {
+      "X": 448,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "179": {
+    "Texture": "r1e2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "180": {
+    "Texture": "f1e6_00",
+    "Name": "Sanctum of the Twelve",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "181": {
+    "Texture": "",
+    "Name": "Dock Storehouse",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "182": {
+    "Texture": "w1d8_01",
+    "Name": "Inner Sanctum",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "183": {
+    "Texture": "w1d8_02",
+    "Name": "Lower Sanctum",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "184": {
+    "Texture": "l1r3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "185": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "186": {
+    "Texture": "r1fd_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "187": {
+    "Texture": "default_00",
+    "Name": "Urth\u0027s Fount",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "188": {
+    "Texture": "s1d8_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "189": {
+    "Texture": "f1d7_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "190": {
+    "Texture": "f1d7_02",
+    "Name": "Third Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "191": {
+    "Texture": "f1d7_03",
+    "Name": "Cellar",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "192": {
+    "Texture": "s1h1_02",
+    "Name": "Mist Subdivision",
+    "Center": {
+      "X": -704,
+      "Y": -704
+    },
+    "SizeFactor": 200
+  },
+  "193": {
+    "Texture": "f1h1_02",
+    "Name": "The Lavender Beds Subdivision",
+    "Center": {
+      "X": -704,
+      "Y": -704
+    },
+    "SizeFactor": 200
+  },
+  "194": {
+    "Texture": "w1h1_02",
+    "Name": "The Goblet Subdivision",
+    "Center": {
+      "X": -704,
+      "Y": -704
+    },
+    "SizeFactor": 200
+  },
+  "195": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "196": {
+    "Texture": "w1eb_00",
+    "Name": "The Gold Saucer",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "197": {
+    "Texture": "w1ed_00",
+    "Name": "Chocobo Square",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "198": {
+    "Texture": "s1fb_00",
+    "Name": "",
+    "Center": {
+      "X": 472,
+      "Y": 424
+    },
+    "SizeFactor": 100
+  },
+  "199": {
+    "Texture": "w1fc_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "200": {
+    "Texture": "f1fc_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "201": {
+    "Texture": "l1d1_01",
+    "Name": "Forecastle",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "202": {
+    "Texture": "l1d1_02",
+    "Name": "Quarterdeck",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "203": {
+    "Texture": "l1d1_03",
+    "Name": "Stern",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "204": {
+    "Texture": "s1i5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "205": {
+    "Texture": "w1i5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "206": {
+    "Texture": "f1i5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "207": {
+    "Texture": "z1e9_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "208": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 220,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "209": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "210": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "211": {
+    "Texture": "r2f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 95
+  },
+  "212": {
+    "Texture": "d2f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 95
+  },
+  "213": {
+    "Texture": "d2f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 95
+  },
+  "214": {
+    "Texture": "d2f3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 95
+  },
+  "215": {
+    "Texture": "a2f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 95
+  },
+  "216": {
+    "Texture": "a2f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 95
+  },
+  "217": {
+    "Texture": "w1fc_02",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 690
+    },
+    "SizeFactor": 100
+  },
+  "218": {
+    "Texture": "r2t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "219": {
+    "Texture": "r2t2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "220": {
+    "Texture": "r2e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "221": {
+    "Texture": "r2e3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "222": {
+    "Texture": "r2e4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "223": {
+    "Texture": "r2ti_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "224": {
+    "Texture": "r2e5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "225": {
+    "Texture": "r2e6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "226": {
+    "Texture": "d2e2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "227": {
+    "Texture": "d2d1_01",
+    "Name": "The South Face",
+    "Center": {
+      "X": -185,
+      "Y": -51
+    },
+    "SizeFactor": 200
+  },
+  "228": {
+    "Texture": "d2d1_02",
+    "Name": "The Veins",
+    "Center": {
+      "X": 162,
+      "Y": -55
+    },
+    "SizeFactor": 200
+  },
+  "229": {
+    "Texture": "d2d1_03",
+    "Name": "Betrayal",
+    "Center": {
+      "X": -51,
+      "Y": -59
+    },
+    "SizeFactor": 200
+  },
+  "230": {
+    "Texture": "a2d2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "231": {
+    "Texture": "a2d1_01",
+    "Name": "Automachina Research",
+    "Center": {
+      "X": 18,
+      "Y": -149
+    },
+    "SizeFactor": 200
+  },
+  "232": {
+    "Texture": "a2d1_02",
+    "Name": "Bioweapon Research",
+    "Center": {
+      "X": 18,
+      "Y": 18
+    },
+    "SizeFactor": 200
+  },
+  "233": {
+    "Texture": "a2d1_03",
+    "Name": "Autolift",
+    "Center": {
+      "X": -359,
+      "Y": -250
+    },
+    "SizeFactor": 200
+  },
+  "234": {
+    "Texture": "a2d1_04",
+    "Name": "Triad Control",
+    "Center": {
+      "X": 229,
+      "Y": 62
+    },
+    "SizeFactor": 200
+  },
+  "235": {
+    "Texture": "a2fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "236": {
+    "Texture": "a2fb_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "237": {
+    "Texture": "d2a1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "238": {
+    "Texture": "d2a2_01",
+    "Name": "Upper Ring",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "239": {
+    "Texture": "d2a3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "240": {
+    "Texture": "d2a4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "241": {
+    "Texture": "d2d3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "242": {
+    "Texture": "s2p1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "243": {
+    "Texture": "r2d1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "244": {
+    "Texture": "a2d3_01",
+    "Name": "Forward Complex",
+    "Center": {
+      "X": 0,
+      "Y": 213
+    },
+    "SizeFactor": 200
+  },
+  "245": {
+    "Texture": "a2d3_02",
+    "Name": "Larboard Complex",
+    "Center": {
+      "X": 163,
+      "Y": 75
+    },
+    "SizeFactor": 200
+  },
+  "246": {
+    "Texture": "a2d3_03",
+    "Name": "Starboard Complex",
+    "Center": {
+      "X": -237,
+      "Y": 128
+    },
+    "SizeFactor": 200
+  },
+  "247": {
+    "Texture": "a2d3_04",
+    "Name": "Central Complex",
+    "Center": {
+      "X": 0,
+      "Y": -350
+    },
+    "SizeFactor": 200
+  },
+  "248": {
+    "Texture": "r2d2_01",
+    "Name": "Chantry Nave",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "249": {
+    "Texture": "r2d2_02",
+    "Name": "Chantry Cloister",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "250": {
+    "Texture": "r2d2_03",
+    "Name": "Inner Sanctum",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "251": {
+    "Texture": "r2d2_04",
+    "Name": "Hall of the Spear",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "252": {
+    "Texture": "d2d2_00",
+    "Name": "",
+    "Center": {
+      "X": 40,
+      "Y": -55
+    },
+    "SizeFactor": 200
+  },
+  "253": {
+    "Texture": "d2e3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "254": {
+    "Texture": "a2d1_04",
+    "Name": "Triad Control",
+    "Center": {
+      "X": 229,
+      "Y": 322
+    },
+    "SizeFactor": 200
+  },
+  "255": {
+    "Texture": "d2a2_02",
+    "Name": "Lower Ring",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "256": {
+    "Texture": "d2fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "257": {
+    "Texture": "d2t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "258": {
+    "Texture": "region_05",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "259": {
+    "Texture": "region_06",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "260": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "261": {
+    "Texture": "a2e2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "262": {
+    "Texture": "s1d9_01",
+    "Name": "Fifth \u0026 Fourth Levels",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "263": {
+    "Texture": "s1d9_02",
+    "Name": "Third Level",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "264": {
+    "Texture": "s1d9_03",
+    "Name": "Second Level",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "265": {
+    "Texture": "s1d9_04",
+    "Name": "First Level",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "266": {
+    "Texture": "s1d9_05",
+    "Name": "Weight Chamber",
+    "Center": {
+      "X": -15,
+      "Y": -122
+    },
+    "SizeFactor": 200
+  },
+  "267": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "268": {
+    "Texture": "d2d4_01",
+    "Name": "First Floor",
+    "Center": {
+      "X": -40,
+      "Y": -6
+    },
+    "SizeFactor": 200
+  },
+  "269": {
+    "Texture": "z2r1_01",
+    "Name": "Upper Deck",
+    "Center": {
+      "X": -289,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "270": {
+    "Texture": "z2r1_02",
+    "Name": "Midship Deck",
+    "Center": {
+      "X": -289,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "271": {
+    "Texture": "z2r1_03",
+    "Name": "The Hold",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "272": {
+    "Texture": "z2r1_04",
+    "Name": "Fo\u0027c\u0027sle",
+    "Center": {
+      "X": 289,
+      "Y": 180
+    },
+    "SizeFactor": 200
+  },
+  "273": {
+    "Texture": "d2d4_02",
+    "Name": "The Underworks",
+    "Center": {
+      "X": -55,
+      "Y": 4
+    },
+    "SizeFactor": 200
+  },
+  "274": {
+    "Texture": "a2fc_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "275": {
+    "Texture": "a2fc_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "276": {
+    "Texture": "a2fc_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "277": {
+    "Texture": "d2d5_01",
+    "Name": "Pleroma",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "278": {
+    "Texture": "d2d5_02",
+    "Name": "The Lower Reaches",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "279": {
+    "Texture": "d2d5_03",
+    "Name": "The Upper Reaches",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "280": {
+    "Texture": "f1d8_01",
+    "Name": "Central Amdapor",
+    "Center": {
+      "X": -64,
+      "Y": -315
+    },
+    "SizeFactor": 200
+  },
+  "281": {
+    "Texture": "f1d8_02",
+    "Name": "Sanctum of Dreams",
+    "Center": {
+      "X": -197,
+      "Y": -325
+    },
+    "SizeFactor": 200
+  },
+  "282": {
+    "Texture": "f1d8_03",
+    "Name": "The Crystallum",
+    "Center": {
+      "X": 175,
+      "Y": 297
+    },
+    "SizeFactor": 200
+  },
+  "283": {
+    "Texture": "a2fd_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "284": {
+    "Texture": "s1p4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "285": {
+    "Texture": "s1p5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "286": {
+    "Texture": "d2a5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "287": {
+    "Texture": "d2a6_01",
+    "Name": "Forward Ring",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "288": {
+    "Texture": "d2a6_02",
+    "Name": "Rear Ring",
+    "Center": {
+      "X": 0,
+      "Y": -150
+    },
+    "SizeFactor": 200
+  },
+  "289": {
+    "Texture": "d2a7_00",
+    "Name": "",
+    "Center": {
+      "X": 110,
+      "Y": 170
+    },
+    "SizeFactor": 200
+  },
+  "290": {
+    "Texture": "d2a8_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "291": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "292": {
+    "Texture": "d2d6_01",
+    "Name": "An Answer of Sorrow",
+    "Center": {
+      "X": -370,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "293": {
+    "Texture": "d2d6_02",
+    "Name": "An Answer of Silence",
+    "Center": {
+      "X": 370,
+      "Y": 200
+    },
+    "SizeFactor": 200
+  },
+  "294": {
+    "Texture": "d2d6_03",
+    "Name": "An Answer of Shame",
+    "Center": {
+      "X": 370,
+      "Y": -300
+    },
+    "SizeFactor": 200
+  },
+  "295": {
+    "Texture": "w1ee_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "296": {
+    "Texture": "r2p1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "297": {
+    "Texture": "s1da_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "298": {
+    "Texture": "z2r2_01",
+    "Name": "Yafaem Saltmoor",
+    "Center": {
+      "X": 40,
+      "Y": 40
+    },
+    "SizeFactor": 200
+  },
+  "299": {
+    "Texture": "z2r2_02",
+    "Name": "The Weeping Ruins",
+    "Center": {
+      "X": -298,
+      "Y": -350
+    },
+    "SizeFactor": 200
+  },
+  "300": {
+    "Texture": "z2r2_03",
+    "Name": "Pyramid Base",
+    "Center": {
+      "X": -290,
+      "Y": 272
+    },
+    "SizeFactor": 200
+  },
+  "301": {
+    "Texture": "z2r2_04",
+    "Name": "The Gloriole",
+    "Center": {
+      "X": 272,
+      "Y": -334
+    },
+    "SizeFactor": 200
+  },
+  "302": {
+    "Texture": "z2r2_05",
+    "Name": "Twelvefold",
+    "Center": {
+      "X": 288,
+      "Y": 250
+    },
+    "SizeFactor": 200
+  },
+  "303": {
+    "Texture": "z2r2_06",
+    "Name": "Pyramid Peak",
+    "Center": {
+      "X": -296,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "304": {
+    "Texture": "r1fe_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "305": {
+    "Texture": "a2e3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "306": {
+    "Texture": "a2e4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "307": {
+    "Texture": "r1e3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "308": {
+    "Texture": "f1tg_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "309": {
+    "Texture": "w1tg_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "310": {
+    "Texture": "s1tg_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "311": {
+    "Texture": "d2d7_01",
+    "Name": "Middle Floors",
+    "Center": {
+      "X": -116,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "312": {
+    "Texture": "d2d7_02",
+    "Name": "Upper Floors",
+    "Center": {
+      "X": 219,
+      "Y": -117
+    },
+    "SizeFactor": 200
+  },
+  "313": {
+    "Texture": "r2d3_00",
+    "Name": "",
+    "Center": {
+      "X": 148,
+      "Y": -35
+    },
+    "SizeFactor": 200
+  },
+  "314": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "315": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "316": {
+    "Texture": "a2ff_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "317": {
+    "Texture": "f1d9_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "318": {
+    "Texture": "f1d9_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "319": {
+    "Texture": "f1d9_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "320": {
+    "Texture": "s1i6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "321": {
+    "Texture": "f1i6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "322": {
+    "Texture": "w1i6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "323": {
+    "Texture": "s1i4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "324": {
+    "Texture": "f1i4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "325": {
+    "Texture": "w1i4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "326": {
+    "Texture": "d2a9_01",
+    "Name": "The Tipped Ewer",
+    "Center": {
+      "X": -75,
+      "Y": -14
+    },
+    "SizeFactor": 200
+  },
+  "327": {
+    "Texture": "d2a9_02",
+    "Name": "The Cranium",
+    "Center": {
+      "X": 0,
+      "Y": -358
+    },
+    "SizeFactor": 200
+  },
+  "328": {
+    "Texture": "d2aa_01",
+    "Name": "Illuminus",
+    "Center": {
+      "X": 0,
+      "Y": 80
+    },
+    "SizeFactor": 200
+  },
+  "329": {
+    "Texture": "d2aa_02",
+    "Name": "Danglylimbs",
+    "Center": {
+      "X": 0,
+      "Y": 80
+    },
+    "SizeFactor": 200
+  },
+  "330": {
+    "Texture": "d2ab_01",
+    "Name": "The Atrium",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "331": {
+    "Texture": "d2ab_02",
+    "Name": "The Ventricle",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "332": {
+    "Texture": "d2ac_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "333": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "334": {
+    "Texture": "a2fe_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "335": {
+    "Texture": "w1ef_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "336": {
+    "Texture": "e3d1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -35
+    },
+    "SizeFactor": 200
+  },
+  "337": {
+    "Texture": "f1da_01",
+    "Name": "Lower Reaches",
+    "Center": {
+      "X": -182,
+      "Y": -32
+    },
+    "SizeFactor": 200
+  },
+  "338": {
+    "Texture": "f1da_02",
+    "Name": "Outer Reaches",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "339": {
+    "Texture": "f1da_03",
+    "Name": "Inner Reaches",
+    "Center": {
+      "X": 138,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "340": {
+    "Texture": "f1da_04",
+    "Name": "The Walk",
+    "Center": {
+      "X": 345,
+      "Y": 295
+    },
+    "SizeFactor": 200
+  },
+  "341": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "342": {
+    "Texture": "d2ab_02",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "343": {
+    "Texture": "z2r3_01",
+    "Name": "The Lady Radlia",
+    "Center": {
+      "X": 350,
+      "Y": 400
+    },
+    "SizeFactor": 200
+  },
+  "344": {
+    "Texture": "z2r3_02",
+    "Name": "Dun Scaith Ruins",
+    "Center": {
+      "X": -100,
+      "Y": 100
+    },
+    "SizeFactor": 200
+  },
+  "345": {
+    "Texture": "z2r3_03",
+    "Name": "The Crumbling Hold",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "346": {
+    "Texture": "z2r3_04",
+    "Name": "Hold Roof",
+    "Center": {
+      "X": -350,
+      "Y": -400
+    },
+    "SizeFactor": 200
+  },
+  "347": {
+    "Texture": "z2r3_05",
+    "Name": "Unwhere",
+    "Center": {
+      "X": 350,
+      "Y": -400
+    },
+    "SizeFactor": 200
+  },
+  "348": {
+    "Texture": "f1p1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "349": {
+    "Texture": "f1p2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "350": {
+    "Texture": "d2d8_01",
+    "Name": "Betrayal",
+    "Center": {
+      "X": -128,
+      "Y": 32
+    },
+    "SizeFactor": 200
+  },
+  "351": {
+    "Texture": "d2d8_02",
+    "Name": "The Veins",
+    "Center": {
+      "X": 256,
+      "Y": 192
+    },
+    "SizeFactor": 200
+  },
+  "352": {
+    "Texture": "d2d8_03",
+    "Name": "The Heart",
+    "Center": {
+      "X": 192,
+      "Y": -192
+    },
+    "SizeFactor": 200
+  },
+  "353": {
+    "Texture": "a2fg_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "354": {
+    "Texture": "e3f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "355": {
+    "Texture": "l1e3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "356": {
+    "Texture": "a2fh_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "357": {
+    "Texture": "l1p1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "358": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "359": {
+    "Texture": "o3d1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "360": {
+    "Texture": "e3d4_01",
+    "Name": "Ni-no-Maru",
+    "Center": {
+      "X": -70,
+      "Y": -33
+    },
+    "SizeFactor": 200
+  },
+  "361": {
+    "Texture": "e3d4_02",
+    "Name": "Hon-maru",
+    "Center": {
+      "X": 277,
+      "Y": 49
+    },
+    "SizeFactor": 200
+  },
+  "362": {
+    "Texture": "g3d3_01",
+    "Name": "Dilemma",
+    "Center": {
+      "X": 427,
+      "Y": 314
+    },
+    "SizeFactor": 200
+  },
+  "363": {
+    "Texture": "g3d3_02",
+    "Name": "Enlightenment",
+    "Center": {
+      "X": -296,
+      "Y": -170
+    },
+    "SizeFactor": 200
+  },
+  "364": {
+    "Texture": "e1h1_01",
+    "Name": "Shirogane",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "365": {
+    "Texture": "e1h1_02",
+    "Name": "Shirogane Subdivision",
+    "Center": {
+      "X": -704,
+      "Y": -704
+    },
+    "SizeFactor": 200
+  },
+  "366": {
+    "Texture": "g3t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "367": {
+    "Texture": "g3f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "368": {
+    "Texture": "g3f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "369": {
+    "Texture": "g3f3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "370": {
+    "Texture": "e3t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "371": {
+    "Texture": "e3f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "372": {
+    "Texture": "e3f3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "373": {
+    "Texture": "g3d2_01",
+    "Name": "Mercantile District",
+    "Center": {
+      "X": -292,
+      "Y": 163
+    },
+    "SizeFactor": 200
+  },
+  "374": {
+    "Texture": "g3d2_02",
+    "Name": "Royal Palace",
+    "Center": {
+      "X": 250,
+      "Y": -128
+    },
+    "SizeFactor": 200
+  },
+  "375": {
+    "Texture": "e3d2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "376": {
+    "Texture": "o3e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "377": {
+    "Texture": "e3e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "378": {
+    "Texture": "e3e5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "379": {
+    "Texture": "e3ea_00",
+    "Name": "",
+    "Center": {
+      "X": 60,
+      "Y": 46
+    },
+    "SizeFactor": 400
+  },
+  "380": {
+    "Texture": "e3ti_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "381": {
+    "Texture": "g3e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "382": {
+    "Texture": "g3e3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "383": {
+    "Texture": "g3e4_00",
+    "Name": "",
+    "Center": {
+      "X": -410,
+      "Y": -142
+    },
+    "SizeFactor": 200
+  },
+  "384": {
+    "Texture": "world_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "385": {
+    "Texture": "region_07",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "386": {
+    "Texture": "region_08",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "387": {
+    "Texture": "region_09",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "388": {
+    "Texture": "e1i6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "389": {
+    "Texture": "z3o1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "390": {
+    "Texture": "z3o2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "391": {
+    "Texture": "z3o3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "392": {
+    "Texture": "z3o4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "393": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 256,
+      "Y": 4
+    },
+    "SizeFactor": 400
+  },
+  "394": {
+    "Texture": "z3o5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "395": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "396": {
+    "Texture": "e3d3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "397": {
+    "Texture": "g3d1_00",
+    "Name": "",
+    "Center": {
+      "X": -72,
+      "Y": 186
+    },
+    "SizeFactor": 200
+  },
+  "398": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 1000,
+      "Y": 1000
+    },
+    "SizeFactor": 100
+  },
+  "399": {
+    "Texture": "g3fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "400": {
+    "Texture": "e3fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "401": {
+    "Texture": "w1fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "402": {
+    "Texture": "r1fa_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "403": {
+    "Texture": "s1fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "404": {
+    "Texture": "d2fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "405": {
+    "Texture": "g3fb_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "406": {
+    "Texture": "g3fb_02",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "407": {
+    "Texture": "a2fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "408": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "409": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "410": {
+    "Texture": "g3t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "411": {
+    "Texture": "e3t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "412": {
+    "Texture": "d2p1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "413": {
+    "Texture": "g3d4_01",
+    "Name": "The Shallows",
+    "Center": {
+      "X": -185,
+      "Y": -5
+    },
+    "SizeFactor": 200
+  },
+  "414": {
+    "Texture": "z3fa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "415": {
+    "Texture": "g3d4_02",
+    "Name": "The Depths",
+    "Center": {
+      "X": 315,
+      "Y": -5
+    },
+    "SizeFactor": 200
+  },
+  "416": {
+    "Texture": "f1bz_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "417": {
+    "Texture": "g3d2_02",
+    "Name": "",
+    "Center": {
+      "X": 250,
+      "Y": -128
+    },
+    "SizeFactor": 200
+  },
+  "418": {
+    "Texture": "region_99",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "419": {
+    "Texture": "g3e6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "420": {
+    "Texture": "z3e2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "421": {
+    "Texture": "z3e3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "422": {
+    "Texture": "z3r1_01",
+    "Name": "Charred Ruins",
+    "Center": {
+      "X": -300,
+      "Y": 100
+    },
+    "SizeFactor": 200
+  },
+  "423": {
+    "Texture": "z3r1_02",
+    "Name": "Garamsythe Waterway",
+    "Center": {
+      "X": 250,
+      "Y": 300
+    },
+    "SizeFactor": 200
+  },
+  "424": {
+    "Texture": "z3r1_03",
+    "Name": "The Royal City of Lesalia",
+    "Center": {
+      "X": 100,
+      "Y": -300
+    },
+    "SizeFactor": 200
+  },
+  "425": {
+    "Texture": "e1i1_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "426": {
+    "Texture": "e1i1_02",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "427": {
+    "Texture": "e1i2_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "428": {
+    "Texture": "e1i2_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "429": {
+    "Texture": "e1i2_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "430": {
+    "Texture": "e1i3_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "431": {
+    "Texture": "e1i3_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "432": {
+    "Texture": "e1i3_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "433": {
+    "Texture": "e1i5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "434": {
+    "Texture": "e1i4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "435": {
+    "Texture": "g3fc_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "436": {
+    "Texture": "g3fc_02",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -32
+    },
+    "SizeFactor": 400
+  },
+  "437": {
+    "Texture": "e3eb_00",
+    "Name": "",
+    "Center": {
+      "X": 60,
+      "Y": 46
+    },
+    "SizeFactor": 400
+  },
+  "438": {
+    "Texture": "e1i4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "439": {
+    "Texture": "e3d5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "440": {
+    "Texture": "l1p2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "441": {
+    "Texture": "a2d4_01",
+    "Name": "Central Complex",
+    "Center": {
+      "X": 0,
+      "Y": -350
+    },
+    "SizeFactor": 200
+  },
+  "442": {
+    "Texture": "a2d4_02",
+    "Name": "Starboard Complex",
+    "Center": {
+      "X": -237,
+      "Y": 128
+    },
+    "SizeFactor": 200
+  },
+  "443": {
+    "Texture": "a2d4_03",
+    "Name": "Rear Complex",
+    "Center": {
+      "X": 0,
+      "Y": 300
+    },
+    "SizeFactor": 200
+  },
+  "444": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "445": {
+    "Texture": "z3o6_00",
+    "Name": "",
+    "Center": {
+      "X": 67,
+      "Y": 250
+    },
+    "SizeFactor": 200
+  },
+  "446": {
+    "Texture": "z3o7_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "447": {
+    "Texture": "z3o8_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "448": {
+    "Texture": "z3o9_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "449": {
+    "Texture": "z3oa_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "450": {
+    "Texture": "e3fb_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "451": {
+    "Texture": "f1e9_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -125
+    },
+    "SizeFactor": 400
+  },
+  "452": {
+    "Texture": "z3o7_02",
+    "Name": "",
+    "Center": {
+      "X": -30,
+      "Y": 45
+    },
+    "SizeFactor": 400
+  },
+  "453": {
+    "Texture": "z3o7_03",
+    "Name": "",
+    "Center": {
+      "X": 145,
+      "Y": -70
+    },
+    "SizeFactor": 400
+  },
+  "454": {
+    "Texture": "z3o7_04",
+    "Name": "",
+    "Center": {
+      "X": 145,
+      "Y": -26
+    },
+    "SizeFactor": 400
+  },
+  "455": {
+    "Texture": "z3o7_05",
+    "Name": "",
+    "Center": {
+      "X": 145,
+      "Y": 28
+    },
+    "SizeFactor": 400
+  },
+  "456": {
+    "Texture": "z3o7_06",
+    "Name": "",
+    "Center": {
+      "X": 145,
+      "Y": 72
+    },
+    "SizeFactor": 400
+  },
+  "457": {
+    "Texture": "z3o7_07",
+    "Name": "",
+    "Center": {
+      "X": 216,
+      "Y": -70
+    },
+    "SizeFactor": 400
+  },
+  "458": {
+    "Texture": "z3o7_08",
+    "Name": "",
+    "Center": {
+      "X": 216,
+      "Y": -26
+    },
+    "SizeFactor": 400
+  },
+  "459": {
+    "Texture": "z3o7_09",
+    "Name": "",
+    "Center": {
+      "X": 216,
+      "Y": 28
+    },
+    "SizeFactor": 400
+  },
+  "460": {
+    "Texture": "z3o7_10",
+    "Name": "",
+    "Center": {
+      "X": 216,
+      "Y": 72
+    },
+    "SizeFactor": 400
+  },
+  "461": {
+    "Texture": "e3e7_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "462": {
+    "Texture": "e3e8_00",
+    "Name": "",
+    "Center": {
+      "X": 62,
+      "Y": -475
+    },
+    "SizeFactor": 400
+  },
+  "463": {
+    "Texture": "e3ec_00",
+    "Name": "",
+    "Center": {
+      "X": -23,
+      "Y": -34
+    },
+    "SizeFactor": 400
+  },
+  "464": {
+    "Texture": "e3d6_01",
+    "Name": "The Swallow\u0027s Compass",
+    "Center": {
+      "X": -240,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "465": {
+    "Texture": "e3d6_02",
+    "Name": "The One River",
+    "Center": {
+      "X": 240,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "466": {
+    "Texture": "e3d6_03",
+    "Name": "The Dairyu Chain",
+    "Center": {
+      "X": 15,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "467": {
+    "Texture": "z3fb_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "468": {
+    "Texture": "e3fc_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "469": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "470": {
+    "Texture": "z3r2_01",
+    "Name": "The Ridorana Cataract",
+    "Center": {
+      "X": -202,
+      "Y": 92
+    },
+    "SizeFactor": 200
+  },
+  "471": {
+    "Texture": "z3r2_02",
+    "Name": "The Lower Lighthouse",
+    "Center": {
+      "X": -230,
+      "Y": -432
+    },
+    "SizeFactor": 200
+  },
+  "472": {
+    "Texture": "z3r2_03",
+    "Name": "The Upper Lighthouse",
+    "Center": {
+      "X": -230,
+      "Y": -494
+    },
+    "SizeFactor": 200
+  },
+  "473": {
+    "Texture": "z3r2_04",
+    "Name": "The Clockwork City of Goug",
+    "Center": {
+      "X": 800,
+      "Y": -144
+    },
+    "SizeFactor": 200
+  },
+  "474": {
+    "Texture": "z3r2_05",
+    "Name": "The Station of Banishment",
+    "Center": {
+      "X": 800,
+      "Y": 800
+    },
+    "SizeFactor": 200
+  },
+  "475": {
+    "Texture": "w1fz_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "476": {
+    "Texture": "e3fd_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "477": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "478": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "479": {
+    "Texture": "e3ee_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "480": {
+    "Texture": "e3d7_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "481": {
+    "Texture": "d2d9_01",
+    "Name": "First Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "482": {
+    "Texture": "d2d9_02",
+    "Name": "The Underworks",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "483": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "484": {
+    "Texture": "z3fc_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "485": {
+    "Texture": "z3oc_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "486": {
+    "Texture": "z3oe_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "487": {
+    "Texture": "w1t1_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "488": {
+    "Texture": "w1p1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "489": {
+    "Texture": "e3ff_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "490": {
+    "Texture": "w1tz_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "491": {
+    "Texture": "n4f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "492": {
+    "Texture": "n4f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "493": {
+    "Texture": "n4f3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "494": {
+    "Texture": "n4f4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "495": {
+    "Texture": "n4f5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "496": {
+    "Texture": "n4f6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "497": {
+    "Texture": "n4t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "498": {
+    "Texture": "n4t2_01",
+    "Name": "The Buttress",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "499": {
+    "Texture": "o3c2_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "500": {
+    "Texture": "g3d5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "501": {
+    "Texture": "z3od_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "502": {
+    "Texture": "z3of_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "503": {
+    "Texture": "e3fe_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "504": {
+    "Texture": "f1d9_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "505": {
+    "Texture": "f1d9_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "506": {
+    "Texture": "f1d9_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "507": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "508": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "509": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "510": {
+    "Texture": "n4d3_01",
+    "Name": "The Qitana Ravel",
+    "Center": {
+      "X": 0,
+      "Y": 274
+    },
+    "SizeFactor": 200
+  },
+  "511": {
+    "Texture": "n4d3_02",
+    "Name": "The Leap of Ox\u0027Charl",
+    "Center": {
+      "X": 0,
+      "Y": -403
+    },
+    "SizeFactor": 200
+  },
+  "512": {
+    "Texture": "z3r3_01",
+    "Name": "The Golmore Jungle",
+    "Center": {
+      "X": 545,
+      "Y": 663
+    },
+    "SizeFactor": 200
+  },
+  "513": {
+    "Texture": "z3r3_02",
+    "Name": "The Orbonne Monastery",
+    "Center": {
+      "X": 600,
+      "Y": 150
+    },
+    "SizeFactor": 200
+  },
+  "514": {
+    "Texture": "z3r3_03",
+    "Name": "The Necrohol",
+    "Center": {
+      "X": -645,
+      "Y": -540
+    },
+    "SizeFactor": 200
+  },
+  "515": {
+    "Texture": "z3fd_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -475
+    },
+    "SizeFactor": 100
+  },
+  "516": {
+    "Texture": "e3fg_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "517": {
+    "Texture": "g3e7_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "518": {
+    "Texture": "g3e7_02",
+    "Name": "",
+    "Center": {
+      "X": -480,
+      "Y": 130
+    },
+    "SizeFactor": 400
+  },
+  "519": {
+    "Texture": "z3r3_04",
+    "Name": "Crystalline Gaol",
+    "Center": {
+      "X": 600,
+      "Y": -600
+    },
+    "SizeFactor": 200
+  },
+  "520": {
+    "Texture": "z3fd_02",
+    "Name": "Headquarters Entrance",
+    "Center": {
+      "X": 0,
+      "Y": 754
+    },
+    "SizeFactor": 200
+  },
+  "521": {
+    "Texture": "z3fd_03",
+    "Name": "The Basement",
+    "Center": {
+      "X": 0,
+      "Y": 450
+    },
+    "SizeFactor": 200
+  },
+  "522": {
+    "Texture": "z3r3_05",
+    "Name": "Confessional",
+    "Center": {
+      "X": 300,
+      "Y": -50
+    },
+    "SizeFactor": 200
+  },
+  "523": {
+    "Texture": "z3r3_06",
+    "Name": "The Forgotten Arena",
+    "Center": {
+      "X": -600,
+      "Y": -600
+    },
+    "SizeFactor": 200
+  },
+  "524": {
+    "Texture": "z3fd_04",
+    "Name": "The Belly",
+    "Center": {
+      "X": 0,
+      "Y": 450
+    },
+    "SizeFactor": 200
+  },
+  "525": {
+    "Texture": "z3fd_05",
+    "Name": "The Umbral Tier",
+    "Center": {
+      "X": 0,
+      "Y": 450
+    },
+    "SizeFactor": 200
+  },
+  "526": {
+    "Texture": "z3fd_06",
+    "Name": "The Astral Tier",
+    "Center": {
+      "X": 0,
+      "Y": 450
+    },
+    "SizeFactor": 200
+  },
+  "527": {
+    "Texture": "z3fd_07",
+    "Name": "The Loft",
+    "Center": {
+      "X": 0,
+      "Y": 450
+    },
+    "SizeFactor": 200
+  },
+  "528": {
+    "Texture": "n4d2_01",
+    "Name": "Lran Mheg",
+    "Center": {
+      "X": 0,
+      "Y": -200
+    },
+    "SizeFactor": 200
+  },
+  "529": {
+    "Texture": "n4d2_02",
+    "Name": "Dohn Lran",
+    "Center": {
+      "X": -170,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "530": {
+    "Texture": "n4d7_01",
+    "Name": "The Shallow",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "531": {
+    "Texture": "n4d7_02",
+    "Name": "The Deep",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "532": {
+    "Texture": "n4d6_01",
+    "Name": "Fading Footsteps",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "533": {
+    "Texture": "n4d6_02",
+    "Name": "Fading Hearth",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "534": {
+    "Texture": "world_99",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "535": {
+    "Texture": "world_02",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "536": {
+    "Texture": "n4d5_01",
+    "Name": "The Rise Above",
+    "Center": {
+      "X": 188,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "537": {
+    "Texture": "n4d5_02",
+    "Name": "The Cant Below",
+    "Center": {
+      "X": -240,
+      "Y": 100
+    },
+    "SizeFactor": 200
+  },
+  "538": {
+    "Texture": "n4d8_01",
+    "Name": "The Halls",
+    "Center": {
+      "X": 0,
+      "Y": -30
+    },
+    "SizeFactor": 200
+  },
+  "539": {
+    "Texture": "n4d8_02",
+    "Name": "Rooftop",
+    "Center": {
+      "X": 0,
+      "Y": -379
+    },
+    "SizeFactor": 200
+  },
+  "540": {
+    "Texture": "n4d4_01",
+    "Name": "The Jasper Walls",
+    "Center": {
+      "X": 65,
+      "Y": 30
+    },
+    "SizeFactor": 200
+  },
+  "541": {
+    "Texture": "n4d4_02",
+    "Name": "The Jade Paths",
+    "Center": {
+      "X": 212,
+      "Y": 220
+    },
+    "SizeFactor": 200
+  },
+  "542": {
+    "Texture": "n4d4_03",
+    "Name": "The Turquoise Currents",
+    "Center": {
+      "X": 220,
+      "Y": 212
+    },
+    "SizeFactor": 200
+  },
+  "543": {
+    "Texture": "region_10",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "544": {
+    "Texture": "n4d1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "545": {
+    "Texture": "l1e5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "546": {
+    "Texture": "n4ti_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "547": {
+    "Texture": "n4e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "548": {
+    "Texture": "s1t2_02",
+    "Name": "",
+    "Center": {
+      "X": -151,
+      "Y": 266
+    },
+    "SizeFactor": 400
+  },
+  "549": {
+    "Texture": "s1f3_02",
+    "Name": "",
+    "Center": {
+      "X": -25,
+      "Y": 258
+    },
+    "SizeFactor": 400
+  },
+  "550": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": -461,
+      "Y": -560
+    },
+    "SizeFactor": 100
+  },
+  "551": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": -120,
+      "Y": -768
+    },
+    "SizeFactor": 100
+  },
+  "552": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 109,
+      "Y": 690
+    },
+    "SizeFactor": 100
+  },
+  "553": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "554": {
+    "Texture": "n4t2_02",
+    "Name": "The Understory",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "555": {
+    "Texture": "n4t2_03",
+    "Name": "The Canopy",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "556": {
+    "Texture": "n4fa_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "557": {
+    "Texture": "n4fb_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "558": {
+    "Texture": "n4fc_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "559": {
+    "Texture": "n4g1_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "560": {
+    "Texture": "n4g2_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "561": {
+    "Texture": "n4g3_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "562": {
+    "Texture": "n4g4_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "563": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "564": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "565": {
+    "Texture": "n4gz_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "566": {
+    "Texture": "n4fd_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "567": {
+    "Texture": "n4d9_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "568": {
+    "Texture": "e3p1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "569": {
+    "Texture": "n4r1_01",
+    "Name": "Upper Stratum",
+    "Center": {
+      "X": -610,
+      "Y": -70
+    },
+    "SizeFactor": 200
+  },
+  "570": {
+    "Texture": "n4r1_02",
+    "Name": "Middle Stratum",
+    "Center": {
+      "X": -805,
+      "Y": -240
+    },
+    "SizeFactor": 200
+  },
+  "571": {
+    "Texture": "n4r1_03",
+    "Name": "Lower Stratum",
+    "Center": {
+      "X": -742,
+      "Y": 584
+    },
+    "SizeFactor": 200
+  },
+  "572": {
+    "Texture": "n4r1_04",
+    "Name": "Deep Stratum",
+    "Center": {
+      "X": 900,
+      "Y": 672
+    },
+    "SizeFactor": 200
+  },
+  "573": {
+    "Texture": "d2az_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "574": {
+    "Texture": "r1hx_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "575": {
+    "Texture": "n4e8_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "576": {
+    "Texture": "n4e9_10",
+    "Name": "",
+    "Center": {
+      "X": 12,
+      "Y": -50
+    },
+    "SizeFactor": 400
+  },
+  "577": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "578": {
+    "Texture": "n4r1_01",
+    "Name": "Upper Stratum",
+    "Center": {
+      "X": -610,
+      "Y": -70
+    },
+    "SizeFactor": 200
+  },
+  "579": {
+    "Texture": "n4r1_02",
+    "Name": "Middle Stratum",
+    "Center": {
+      "X": -805,
+      "Y": -240
+    },
+    "SizeFactor": 200
+  },
+  "580": {
+    "Texture": "n4r1_03",
+    "Name": "Lower Stratum",
+    "Center": {
+      "X": -742,
+      "Y": 584
+    },
+    "SizeFactor": 200
+  },
+  "581": {
+    "Texture": "n4r1_04",
+    "Name": "Deep Stratum",
+    "Center": {
+      "X": 900,
+      "Y": 672
+    },
+    "SizeFactor": 200
+  },
+  "582": {
+    "Texture": "n4e9_40",
+    "Name": "",
+    "Center": {
+      "X": 12,
+      "Y": -50
+    },
+    "SizeFactor": 400
+  },
+  "583": {
+    "Texture": "n4fe_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "584": {
+    "Texture": "a2fx_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "585": {
+    "Texture": "n4da_01",
+    "Name": "The Setebos Trench",
+    "Center": {
+      "X": -100,
+      "Y": 390
+    },
+    "SizeFactor": 200
+  },
+  "586": {
+    "Texture": "n4da_02",
+    "Name": "Sunken Structures",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "587": {
+    "Texture": "r1hx_21",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "588": {
+    "Texture": "r1hx_22",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "589": {
+    "Texture": "n4g5_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "590": {
+    "Texture": "n4g6_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "591": {
+    "Texture": "n4g7_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "592": {
+    "Texture": "n4db_01",
+    "Name": "Amh Araeng",
+    "Center": {
+      "X": -626,
+      "Y": 611
+    },
+    "SizeFactor": 200
+  },
+  "593": {
+    "Texture": "n4db_02",
+    "Name": "Il Mheg",
+    "Center": {
+      "X": -608,
+      "Y": -648
+    },
+    "SizeFactor": 200
+  },
+  "594": {
+    "Texture": "n4db_03",
+    "Name": "Lakeland",
+    "Center": {
+      "X": 567,
+      "Y": 488
+    },
+    "SizeFactor": 200
+  },
+  "595": {
+    "Texture": "n4da_03",
+    "Name": "Sunken Sanctum",
+    "Center": {
+      "X": 0,
+      "Y": -425
+    },
+    "SizeFactor": 200
+  },
+  "596": {
+    "Texture": "r1hx_23",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "597": {
+    "Texture": "r1hx_24",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "598": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "599": {
+    "Texture": "n4g8_01",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "600": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "601": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "602": {
+    "Texture": "n4g8_02",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 165
+    },
+    "SizeFactor": 400
+  },
+  "603": {
+    "Texture": "n4ea_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "604": {
+    "Texture": "o1a1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "605": {
+    "Texture": "r1hx_24",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "606": {
+    "Texture": "n4b4_01",
+    "Name": "",
+    "Center": {
+      "X": 127,
+      "Y": 424
+    },
+    "SizeFactor": 100
+  },
+  "607": {
+    "Texture": "n4b2_00",
+    "Name": "",
+    "Center": {
+      "X": 35,
+      "Y": -683
+    },
+    "SizeFactor": 400
+  },
+  "608": {
+    "Texture": "n4r2_01",
+    "Name": "The Duergar Mountains",
+    "Center": {
+      "X": -290,
+      "Y": 190
+    },
+    "SizeFactor": 200
+  },
+  "609": {
+    "Texture": "n4r2_02",
+    "Name": "Bunker",
+    "Center": {
+      "X": -290,
+      "Y": -200
+    },
+    "SizeFactor": 200
+  },
+  "610": {
+    "Texture": "n4r2_03",
+    "Name": "Elevator",
+    "Center": {
+      "X": 200,
+      "Y": -100
+    },
+    "SizeFactor": 200
+  },
+  "611": {
+    "Texture": "n4r2_04",
+    "Name": "Alien Ship",
+    "Center": {
+      "X": 200,
+      "Y": -460
+    },
+    "SizeFactor": 200
+  },
+  "612": {
+    "Texture": "n4ff_01",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "613": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 800
+    },
+    "SizeFactor": 400
+  },
+  "614": {
+    "Texture": "n4e8_02",
+    "Name": "",
+    "Center": {
+      "X": -50,
+      "Y": -118
+    },
+    "SizeFactor": 400
+  },
+  "615": {
+    "Texture": "r1hx_31",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "616": {
+    "Texture": "n4b4_02",
+    "Name": "",
+    "Center": {
+      "X": 80,
+      "Y": -492
+    },
+    "SizeFactor": 200
+  },
+  "617": {
+    "Texture": "n4eb_01",
+    "Name": "",
+    "Center": {
+      "X": -2,
+      "Y": 27
+    },
+    "SizeFactor": 400
+  },
+  "618": {
+    "Texture": "n4eb_02",
+    "Name": "",
+    "Center": {
+      "X": -15,
+      "Y": 610
+    },
+    "SizeFactor": 400
+  },
+  "619": {
+    "Texture": "l1e1_02",
+    "Name": "",
+    "Center": {
+      "X": -60,
+      "Y": 20
+    },
+    "SizeFactor": 400
+  },
+  "620": {
+    "Texture": "r1hx_32",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "621": {
+    "Texture": "r1hx_33",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "622": {
+    "Texture": "r1hx_34",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "623": {
+    "Texture": "n4r2_01",
+    "Name": "The Duergar Mountains",
+    "Center": {
+      "X": -290,
+      "Y": 190
+    },
+    "SizeFactor": 200
+  },
+  "624": {
+    "Texture": "n4r2_02",
+    "Name": "Bunker",
+    "Center": {
+      "X": -290,
+      "Y": -200
+    },
+    "SizeFactor": 200
+  },
+  "625": {
+    "Texture": "n4r2_03",
+    "Name": "Elevator",
+    "Center": {
+      "X": 200,
+      "Y": -100
+    },
+    "SizeFactor": 200
+  },
+  "626": {
+    "Texture": "n4r2_04",
+    "Name": "Alien Ship",
+    "Center": {
+      "X": 200,
+      "Y": -460
+    },
+    "SizeFactor": 200
+  },
+  "627": {
+    "Texture": "d4d1_01",
+    "Name": "The Sorcerer\u0027s Interstice",
+    "Center": {
+      "X": 0,
+      "Y": 75
+    },
+    "SizeFactor": 200
+  },
+  "628": {
+    "Texture": "d4d1_02",
+    "Name": "Grimegrot",
+    "Center": {
+      "X": -180,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "629": {
+    "Texture": "d4d1_03",
+    "Name": "Wandering Well",
+    "Center": {
+      "X": 0,
+      "Y": -150
+    },
+    "SizeFactor": 200
+  },
+  "630": {
+    "Texture": "d4d1_04",
+    "Name": "Clearnote Cauldron",
+    "Center": {
+      "X": 0,
+      "Y": -150
+    },
+    "SizeFactor": 200
+  },
+  "631": {
+    "Texture": "n4g9_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "632": {
+    "Texture": "n4gc_01",
+    "Name": "",
+    "Center": {
+      "X": 71,
+      "Y": -23
+    },
+    "SizeFactor": 400
+  },
+  "633": {
+    "Texture": "n4gc_02",
+    "Name": "",
+    "Center": {
+      "X": 44,
+      "Y": 60
+    },
+    "SizeFactor": 400
+  },
+  "634": {
+    "Texture": "n4gc_03",
+    "Name": "",
+    "Center": {
+      "X": -44,
+      "Y": 60
+    },
+    "SizeFactor": 400
+  },
+  "635": {
+    "Texture": "n4gc_04",
+    "Name": "",
+    "Center": {
+      "X": -71,
+      "Y": -23
+    },
+    "SizeFactor": 400
+  },
+  "636": {
+    "Texture": "n4gc_05",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -75
+    },
+    "SizeFactor": 400
+  },
+  "637": {
+    "Texture": "n4ga_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "638": {
+    "Texture": "n4fg_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "639": {
+    "Texture": "d4d1_05",
+    "Name": "Flame\u0027s Fantasia",
+    "Center": {
+      "X": 150,
+      "Y": -5
+    },
+    "SizeFactor": 200
+  },
+  "640": {
+    "Texture": "n4c2_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "641": {
+    "Texture": "n4b5_01",
+    "Name": "Outer Locus",
+    "Center": {
+      "X": 0,
+      "Y": 378
+    },
+    "SizeFactor": 200
+  },
+  "642": {
+    "Texture": "n4b5_02",
+    "Name": "Inner Locus",
+    "Center": {
+      "X": 264,
+      "Y": -286
+    },
+    "SizeFactor": 200
+  },
+  "643": {
+    "Texture": "n4b5_03",
+    "Name": "Hidden Locus",
+    "Center": {
+      "X": -270,
+      "Y": -250
+    },
+    "SizeFactor": 200
+  },
+  "644": {
+    "Texture": "n4b5_04",
+    "Name": "Dormant Altar",
+    "Center": {
+      "X": -416,
+      "Y": -178
+    },
+    "SizeFactor": 200
+  },
+  "645": {
+    "Texture": "n4b5_05",
+    "Name": "Dead Living Quarters",
+    "Center": {
+      "X": -164,
+      "Y": 96
+    },
+    "SizeFactor": 200
+  },
+  "646": {
+    "Texture": "n4b5_06",
+    "Name": "Abandoned Barracks",
+    "Center": {
+      "X": -270,
+      "Y": 404
+    },
+    "SizeFactor": 200
+  },
+  "647": {
+    "Texture": "n4b5_07",
+    "Name": "Neglected Granary",
+    "Center": {
+      "X": 300,
+      "Y": 378
+    },
+    "SizeFactor": 200
+  },
+  "648": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "649": {
+    "Texture": "r1hx_42",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "650": {
+    "Texture": "r1hx_43",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "651": {
+    "Texture": "r1hx_44",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "652": {
+    "Texture": "r1hx_45",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "653": {
+    "Texture": "r1hx_46",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "654": {
+    "Texture": "r1hx_47",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "655": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 750
+    },
+    "SizeFactor": 200
+  },
+  "656": {
+    "Texture": "n4gb_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "657": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "658": {
+    "Texture": "n4gz_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "659": {
+    "Texture": "n4r3_01",
+    "Name": "Lower Section",
+    "Center": {
+      "X": -808,
+      "Y": 772
+    },
+    "SizeFactor": 200
+  },
+  "660": {
+    "Texture": "n4r3_02",
+    "Name": "Ego Collective A",
+    "Center": {
+      "X": -792,
+      "Y": -810
+    },
+    "SizeFactor": 200
+  },
+  "661": {
+    "Texture": "n4r3_03",
+    "Name": "Ego Collective B",
+    "Center": {
+      "X": 801,
+      "Y": -785
+    },
+    "SizeFactor": 200
+  },
+  "662": {
+    "Texture": "n4r3_04",
+    "Name": "Monorail System",
+    "Center": {
+      "X": 798,
+      "Y": 760
+    },
+    "SizeFactor": 200
+  },
+  "663": {
+    "Texture": "n4r3_05",
+    "Name": "Upper Section",
+    "Center": {
+      "X": -700,
+      "Y": -700
+    },
+    "SizeFactor": 200
+  },
+  "664": {
+    "Texture": "n4r3_06",
+    "Name": "Ego Collective C",
+    "Center": {
+      "X": 0,
+      "Y": -89
+    },
+    "SizeFactor": 200
+  },
+  "665": {
+    "Texture": "n4b6_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "666": {
+    "Texture": "w4d1_01",
+    "Name": "Zolm\u0027ak",
+    "Center": {
+      "X": -415,
+      "Y": 110
+    },
+    "SizeFactor": 200
+  },
+  "667": {
+    "Texture": "w4d1_02",
+    "Name": "The Boundless Plains",
+    "Center": {
+      "X": 450,
+      "Y": -85
+    },
+    "SizeFactor": 200
+  },
+  "668": {
+    "Texture": "n4r3_07",
+    "Name": "Ego Collective C",
+    "Center": {
+      "X": 0,
+      "Y": 401
+    },
+    "SizeFactor": 200
+  },
+  "669": {
+    "Texture": "n4r3_08",
+    "Name": "Ego Collective C",
+    "Center": {
+      "X": 0,
+      "Y": 901
+    },
+    "SizeFactor": 200
+  },
+  "670": {
+    "Texture": "n4fh_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "671": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "672": {
+    "Texture": "n4b6_02",
+    "Name": "",
+    "Center": {
+      "X": 222,
+      "Y": -654
+    },
+    "SizeFactor": 200
+  },
+  "673": {
+    "Texture": "n4b6_03",
+    "Name": "",
+    "Center": {
+      "X": 632,
+      "Y": 204
+    },
+    "SizeFactor": 200
+  },
+  "674": {
+    "Texture": "n4b6_04",
+    "Name": "",
+    "Center": {
+      "X": 650,
+      "Y": -336
+    },
+    "SizeFactor": 200
+  },
+  "675": {
+    "Texture": "n4b6_05",
+    "Name": "",
+    "Center": {
+      "X": -718,
+      "Y": -702
+    },
+    "SizeFactor": 200
+  },
+  "676": {
+    "Texture": "u5fa_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "677": {
+    "Texture": "k5fa_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "678": {
+    "Texture": "u5fb_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "679": {
+    "Texture": "r1h1_01",
+    "Name": "Empyreum",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "680": {
+    "Texture": "r1h1_02",
+    "Name": "Empyreum Subdivision",
+    "Center": {
+      "X": -702,
+      "Y": -655
+    },
+    "SizeFactor": 200
+  },
+  "681": {
+    "Texture": "r1i6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "682": {
+    "Texture": "r1i1_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "683": {
+    "Texture": "r1i1_02",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "684": {
+    "Texture": "r1i2_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "685": {
+    "Texture": "r1i2_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "686": {
+    "Texture": "r1i2_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "687": {
+    "Texture": "r1i3_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "688": {
+    "Texture": "r1i3_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "689": {
+    "Texture": "r1i3_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "690": {
+    "Texture": "r1i5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "691": {
+    "Texture": "r1i4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "692": {
+    "Texture": "r1i4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "693": {
+    "Texture": "k5t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "694": {
+    "Texture": "m5t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "695": {
+    "Texture": "k5f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "696": {
+    "Texture": "m5f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "697": {
+    "Texture": "m5f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "698": {
+    "Texture": "u5f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "699": {
+    "Texture": "u5f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "700": {
+    "Texture": "n5f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "701": {
+    "Texture": "m5d1_01",
+    "Name": "Tower Base",
+    "Center": {
+      "X": 50,
+      "Y": 50
+    },
+    "SizeFactor": 200
+  },
+  "702": {
+    "Texture": "m5d1_02",
+    "Name": "Tower Climb",
+    "Center": {
+      "X": -290,
+      "Y": 80
+    },
+    "SizeFactor": 200
+  },
+  "703": {
+    "Texture": "m5d1_03",
+    "Name": "Tower Top",
+    "Center": {
+      "X": -20,
+      "Y": -50
+    },
+    "SizeFactor": 200
+  },
+  "704": {
+    "Texture": "f1db_01",
+    "Name": "Lower Sepulchres",
+    "Center": {
+      "X": -20,
+      "Y": -10
+    },
+    "SizeFactor": 200
+  },
+  "705": {
+    "Texture": "f1db_02",
+    "Name": "Cairn\u0027s Hollow",
+    "Center": {
+      "X": 480,
+      "Y": 50
+    },
+    "SizeFactor": 200
+  },
+  "706": {
+    "Texture": "u5d2_01",
+    "Name": "The Outsides",
+    "Center": {
+      "X": 22,
+      "Y": 42
+    },
+    "SizeFactor": 200
+  },
+  "707": {
+    "Texture": "u5d2_02",
+    "Name": "The Insides",
+    "Center": {
+      "X": 9,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "708": {
+    "Texture": "u5d2_03",
+    "Name": "The On-the-waysides",
+    "Center": {
+      "X": 45,
+      "Y": 88
+    },
+    "SizeFactor": 200
+  },
+  "709": {
+    "Texture": "n5r1_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "710": {
+    "Texture": "n5d1_01",
+    "Name": "Terrestrial Artifice",
+    "Center": {
+      "X": -40,
+      "Y": 150
+    },
+    "SizeFactor": 200
+  },
+  "711": {
+    "Texture": "n5d1_02",
+    "Name": "Experimental Artifice",
+    "Center": {
+      "X": -40,
+      "Y": 70
+    },
+    "SizeFactor": 200
+  },
+  "712": {
+    "Texture": "n5d1_03",
+    "Name": "Lower Aerial Artifice",
+    "Center": {
+      "X": 0,
+      "Y": 43
+    },
+    "SizeFactor": 200
+  },
+  "713": {
+    "Texture": "n5d1_04",
+    "Name": "Central Aerial Artifice",
+    "Center": {
+      "X": 25,
+      "Y": -40
+    },
+    "SizeFactor": 200
+  },
+  "714": {
+    "Texture": "n5d1_05",
+    "Name": "Upper Aerial Artifice",
+    "Center": {
+      "X": -30,
+      "Y": 25
+    },
+    "SizeFactor": 200
+  },
+  "715": {
+    "Texture": "n5d1_06",
+    "Name": "Prime Artifice",
+    "Center": {
+      "X": 0,
+      "Y": -50
+    },
+    "SizeFactor": 200
+  },
+  "716": {
+    "Texture": "u5d3_01",
+    "Name": "The Alphatron Star",
+    "Center": {
+      "X": -144,
+      "Y": 14
+    },
+    "SizeFactor": 200
+  },
+  "717": {
+    "Texture": "u5d3_02",
+    "Name": "Gordhonite Asteroid Belt",
+    "Center": {
+      "X": 0,
+      "Y": 150
+    },
+    "SizeFactor": 200
+  },
+  "718": {
+    "Texture": "u5d3_03",
+    "Name": "The Dragonstar",
+    "Center": {
+      "X": 0,
+      "Y": 150
+    },
+    "SizeFactor": 200
+  },
+  "719": {
+    "Texture": "k5d1_01",
+    "Name": "Aetherial Lens",
+    "Center": {
+      "X": -8,
+      "Y": 501
+    },
+    "SizeFactor": 200
+  },
+  "720": {
+    "Texture": "k5d1_02",
+    "Name": "Abyssal Plane",
+    "Center": {
+      "X": -12,
+      "Y": 285
+    },
+    "SizeFactor": 200
+  },
+  "721": {
+    "Texture": "k5d1_03",
+    "Name": "Aetherostatic Peak",
+    "Center": {
+      "X": -18,
+      "Y": -317
+    },
+    "SizeFactor": 200
+  },
+  "722": {
+    "Texture": "n5r3_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "723": {
+    "Texture": "m5d2_01",
+    "Name": "Magitek Freight Depot E",
+    "Center": {
+      "X": -270,
+      "Y": 300
+    },
+    "SizeFactor": 200
+  },
+  "724": {
+    "Texture": "m5d2_02",
+    "Name": "Subterranean Sector",
+    "Center": {
+      "X": -300,
+      "Y": 130
+    },
+    "SizeFactor": 200
+  },
+  "725": {
+    "Texture": "m5d2_03",
+    "Name": "Conveyance Sector",
+    "Center": {
+      "X": 400,
+      "Y": -200
+    },
+    "SizeFactor": 200
+  },
+  "726": {
+    "Texture": "m5d2_04",
+    "Name": "Palatial Sector",
+    "Center": {
+      "X": 230,
+      "Y": 250
+    },
+    "SizeFactor": 200
+  },
+  "727": {
+    "Texture": "m5d2_05",
+    "Name": "Auxiliary Sector",
+    "Center": {
+      "X": 0,
+      "Y": -100
+    },
+    "SizeFactor": 200
+  },
+  "728": {
+    "Texture": "m5d2_06",
+    "Name": "Anima\u0027s Dimension",
+    "Center": {
+      "X": 0,
+      "Y": -400
+    },
+    "SizeFactor": 200
+  },
+  "729": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "730": {
+    "Texture": "n5r2_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "731": {
+    "Texture": "n5r4_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "732": {
+    "Texture": "region_11",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "733": {
+    "Texture": "region_12",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "734": {
+    "Texture": "region_13",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "735": {
+    "Texture": "region_14",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "736": {
+    "Texture": "u5d1_01",
+    "Name": "Ostrakon Hexi",
+    "Center": {
+      "X": 310,
+      "Y": -15
+    },
+    "SizeFactor": 200
+  },
+  "737": {
+    "Texture": "u5d1_02",
+    "Name": "Ostrakon Okto",
+    "Center": {
+      "X": -40,
+      "Y": -70
+    },
+    "SizeFactor": 200
+  },
+  "738": {
+    "Texture": "u5d1_03",
+    "Name": "Ostrakon Deka-hepta",
+    "Center": {
+      "X": -300,
+      "Y": 60
+    },
+    "SizeFactor": 200
+  },
+  "739": {
+    "Texture": "m5d3_01",
+    "Name": "Vanaspati",
+    "Center": {
+      "X": -280,
+      "Y": -8
+    },
+    "SizeFactor": 200
+  },
+  "740": {
+    "Texture": "m5d3_02",
+    "Name": "The Temple Stones",
+    "Center": {
+      "X": 307,
+      "Y": 77
+    },
+    "SizeFactor": 200
+  },
+  "741": {
+    "Texture": "w1ej_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "742": {
+    "Texture": "k5e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "743": {
+    "Texture": "k5ti_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "744": {
+    "Texture": "r2ea_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "745": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "746": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 100
+  },
+  "747": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "748": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 100
+  },
+  "749": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "750": {
+    "Texture": "m5f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "751": {
+    "Texture": "u5f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "752": {
+    "Texture": "m5d4_01",
+    "Name": "The Bhaflau Remnants",
+    "Center": {
+      "X": -15,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "753": {
+    "Texture": "m5d4_02",
+    "Name": "The Arrapago Remnants",
+    "Center": {
+      "X": 0,
+      "Y": -50
+    },
+    "SizeFactor": 200
+  },
+  "754": {
+    "Texture": "m5d4_03",
+    "Name": "The Zhayolm Remnants",
+    "Center": {
+      "X": 15,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "755": {
+    "Texture": "z5r1_01",
+    "Name": "Heaven of Lightning",
+    "Center": {
+      "X": 80,
+      "Y": 550
+    },
+    "SizeFactor": 200
+  },
+  "756": {
+    "Texture": "z5r1_02",
+    "Name": "Heaven of Fire",
+    "Center": {
+      "X": -750,
+      "Y": -650
+    },
+    "SizeFactor": 200
+  },
+  "757": {
+    "Texture": "z5r1_03",
+    "Name": "The Twin Halls",
+    "Center": {
+      "X": 750,
+      "Y": -750
+    },
+    "SizeFactor": 200
+  },
+  "758": {
+    "Texture": "r1fz_01",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "759": {
+    "Texture": "s5p1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "760": {
+    "Texture": "s5p2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "761": {
+    "Texture": "s5p3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "762": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "763": {
+    "Texture": "w1d5_08",
+    "Name": "",
+    "Center": {
+      "X": -772,
+      "Y": -600
+    },
+    "SizeFactor": 400
+  },
+  "764": {
+    "Texture": "w1d5_09",
+    "Name": "",
+    "Center": {
+      "X": -704,
+      "Y": 480
+    },
+    "SizeFactor": 400
+  },
+  "765": {
+    "Texture": "r1fz_02",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "766": {
+    "Texture": "z5e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "767": {
+    "Texture": "k5e4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "768": {
+    "Texture": "z5d1_01",
+    "Name": "Carcere IV",
+    "Center": {
+      "X": 76,
+      "Y": 180
+    },
+    "SizeFactor": 200
+  },
+  "769": {
+    "Texture": "z5d1_02",
+    "Name": "Troia Keep",
+    "Center": {
+      "X": -143,
+      "Y": 64
+    },
+    "SizeFactor": 200
+  },
+  "770": {
+    "Texture": "z5d1_03",
+    "Name": "Hydromantic Terraces",
+    "Center": {
+      "X": -29,
+      "Y": -112
+    },
+    "SizeFactor": 200
+  },
+  "771": {
+    "Texture": "n5r6_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "772": {
+    "Texture": "h1m2_01",
+    "Name": "",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "773": {
+    "Texture": "h1m2_02",
+    "Name": "",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "774": {
+    "Texture": "h1m2_03",
+    "Name": "",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "775": {
+    "Texture": "h1m2_04",
+    "Name": "",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "776": {
+    "Texture": "h1m2_05",
+    "Name": "",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "777": {
+    "Texture": "h1m2_06",
+    "Name": "",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "778": {
+    "Texture": "h1m2_07",
+    "Name": "",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "779": {
+    "Texture": "h1m2_08",
+    "Name": "",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "780": {
+    "Texture": "h1m2_09",
+    "Name": "",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "781": {
+    "Texture": "h1m2_10",
+    "Name": "Surface Terrain",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "782": {
+    "Texture": "z5d1_01",
+    "Name": "Carcere IV",
+    "Center": {
+      "X": 76,
+      "Y": 180
+    },
+    "SizeFactor": 200
+  },
+  "783": {
+    "Texture": "z5d1_02",
+    "Name": "Troia Keep",
+    "Center": {
+      "X": -143,
+      "Y": 64
+    },
+    "SizeFactor": 200
+  },
+  "784": {
+    "Texture": "z5d1_03",
+    "Name": "Hydromantic Terraces",
+    "Center": {
+      "X": -29,
+      "Y": -112
+    },
+    "SizeFactor": 200
+  },
+  "785": {
+    "Texture": "m5d4_03",
+    "Name": "",
+    "Center": {
+      "X": 15,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "786": {
+    "Texture": "z5e4_00",
+    "Name": "",
+    "Center": {
+      "X": 15,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "787": {
+    "Texture": "m5e4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "788": {
+    "Texture": "k5e5_00",
+    "Name": "",
+    "Center": {
+      "X": -8,
+      "Y": 501
+    },
+    "SizeFactor": 200
+  },
+  "789": {
+    "Texture": "f1ea_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "790": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 181
+    },
+    "SizeFactor": 400
+  },
+  "791": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": -37,
+      "Y": -42
+    },
+    "SizeFactor": 400
+  },
+  "792": {
+    "Texture": "n5r7_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "793": {
+    "Texture": "h1m2_11",
+    "Name": "Surface Terrain",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "794": {
+    "Texture": "h1m2_12",
+    "Name": "Cave System",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "795": {
+    "Texture": "u5e3_02",
+    "Name": "",
+    "Center": {
+      "X": -37,
+      "Y": -42
+    },
+    "SizeFactor": 400
+  },
+  "796": {
+    "Texture": "u5e3_03",
+    "Name": "",
+    "Center": {
+      "X": -37,
+      "Y": -42
+    },
+    "SizeFactor": 400
+  },
+  "797": {
+    "Texture": "u5e3_04",
+    "Name": "",
+    "Center": {
+      "X": -37,
+      "Y": -42
+    },
+    "SizeFactor": 400
+  },
+  "798": {
+    "Texture": "u5e3_05",
+    "Name": "",
+    "Center": {
+      "X": -37,
+      "Y": -42
+    },
+    "SizeFactor": 400
+  },
+  "799": {
+    "Texture": "u5e3_06",
+    "Name": "",
+    "Center": {
+      "X": -37,
+      "Y": -42
+    },
+    "SizeFactor": 400
+  },
+  "800": {
+    "Texture": "u5e3_07",
+    "Name": "",
+    "Center": {
+      "X": -37,
+      "Y": -42
+    },
+    "SizeFactor": 400
+  },
+  "801": {
+    "Texture": "u5e3_01",
+    "Name": "",
+    "Center": {
+      "X": -37,
+      "Y": -42
+    },
+    "SizeFactor": 400
+  },
+  "802": {
+    "Texture": "z5fa_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "803": {
+    "Texture": "w5d1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "804": {
+    "Texture": "w5d2_01",
+    "Name": "The Jewel",
+    "Center": {
+      "X": -335,
+      "Y": -100
+    },
+    "SizeFactor": 200
+  },
+  "805": {
+    "Texture": "w5d2_02",
+    "Name": "The Helm",
+    "Center": {
+      "X": -35,
+      "Y": -243
+    },
+    "SizeFactor": 200
+  },
+  "806": {
+    "Texture": "w5d2_03",
+    "Name": "The Scales",
+    "Center": {
+      "X": 289,
+      "Y": -105
+    },
+    "SizeFactor": 200
+  },
+  "807": {
+    "Texture": "n5r5_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "808": {
+    "Texture": "n5r8_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "809": {
+    "Texture": "n5r8_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "810": {
+    "Texture": "n5r7_00",
+    "Name": "",
+    "Center": {
+      "X": -500,
+      "Y": -500
+    },
+    "SizeFactor": 400
+  },
+  "811": {
+    "Texture": "z5r2_01",
+    "Name": "Heaven of Earth",
+    "Center": {
+      "X": 0,
+      "Y": -480
+    },
+    "SizeFactor": 200
+  },
+  "812": {
+    "Texture": "z5r2_02",
+    "Name": "Heaven of Ice",
+    "Center": {
+      "X": -700,
+      "Y": 750
+    },
+    "SizeFactor": 200
+  },
+  "813": {
+    "Texture": "z5r2_03",
+    "Name": "Hall of the Spear",
+    "Center": {
+      "X": 350,
+      "Y": 135
+    },
+    "SizeFactor": 200
+  },
+  "814": {
+    "Texture": "z5r2_04",
+    "Name": "Arete",
+    "Center": {
+      "X": 800,
+      "Y": 750
+    },
+    "SizeFactor": 200
+  },
+  "815": {
+    "Texture": "m5d5_01",
+    "Name": "Pes Albus",
+    "Center": {
+      "X": 46,
+      "Y": -570
+    },
+    "SizeFactor": 200
+  },
+  "816": {
+    "Texture": "m5d5_02",
+    "Name": "Mons Albus",
+    "Center": {
+      "X": 24,
+      "Y": -744
+    },
+    "SizeFactor": 200
+  },
+  "817": {
+    "Texture": "m5d5_03",
+    "Name": "Vicus Messorum",
+    "Center": {
+      "X": 350,
+      "Y": -260
+    },
+    "SizeFactor": 200
+  },
+  "818": {
+    "Texture": "n5c1_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "819": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "820": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "821": {
+    "Texture": "z3oz_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "822": {
+    "Texture": "s5p4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "823": {
+    "Texture": "m5fa_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "824": {
+    "Texture": "m5d5_04",
+    "Name": "Fons Manalis",
+    "Center": {
+      "X": -320,
+      "Y": 250
+    },
+    "SizeFactor": 200
+  },
+  "825": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 693,
+      "Y": 46
+    },
+    "SizeFactor": 400
+  },
+  "826": {
+    "Texture": "m5d5_01",
+    "Name": "Pes Albus",
+    "Center": {
+      "X": 24,
+      "Y": -744
+    },
+    "SizeFactor": 200
+  },
+  "827": {
+    "Texture": "m5d5_02",
+    "Name": "Mons Albus",
+    "Center": {
+      "X": 24,
+      "Y": -744
+    },
+    "SizeFactor": 200
+  },
+  "828": {
+    "Texture": "m5d5_03",
+    "Name": "Vicus Messorum",
+    "Center": {
+      "X": 350,
+      "Y": -260
+    },
+    "SizeFactor": 200
+  },
+  "829": {
+    "Texture": "m5d5_04",
+    "Name": "Fons Manalis",
+    "Center": {
+      "X": -320,
+      "Y": 250
+    },
+    "SizeFactor": 200
+  },
+  "830": {
+    "Texture": "z5fb_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "831": {
+    "Texture": "k5d2_01",
+    "Name": "Ice Field",
+    "Center": {
+      "X": -368,
+      "Y": 277
+    },
+    "SizeFactor": 200
+  },
+  "832": {
+    "Texture": "k5d2_02",
+    "Name": "Isle of Haam",
+    "Center": {
+      "X": 288,
+      "Y": -220
+    },
+    "SizeFactor": 200
+  },
+  "833": {
+    "Texture": "k5d2_03",
+    "Name": "The Aetherfont",
+    "Center": {
+      "X": -389,
+      "Y": -149
+    },
+    "SizeFactor": 200
+  },
+  "834": {
+    "Texture": "n5ra_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "835": {
+    "Texture": "n5rc_01",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "836": {
+    "Texture": "n5rc_02",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "837": {
+    "Texture": "n5r9_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "838": {
+    "Texture": "m5fb_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "839": {
+    "Texture": "n5rb_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "840": {
+    "Texture": "m5e5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "841": {
+    "Texture": "m5e7_00",
+    "Name": "",
+    "Center": {
+      "X": 12,
+      "Y": 16
+    },
+    "SizeFactor": 400
+  },
+  "842": {
+    "Texture": "z5e5_00",
+    "Name": "",
+    "Center": {
+      "X": 30,
+      "Y": 600
+    },
+    "SizeFactor": 400
+  },
+  "843": {
+    "Texture": "e5d1_01",
+    "Name": "Mountain Base",
+    "Center": {
+      "X": 145,
+      "Y": 820
+    },
+    "SizeFactor": 200
+  },
+  "844": {
+    "Texture": "e5d1_02",
+    "Name": "Shaded Approach",
+    "Center": {
+      "X": -774,
+      "Y": 118
+    },
+    "SizeFactor": 200
+  },
+  "845": {
+    "Texture": "e5d1_03",
+    "Name": "Lower Pagoda",
+    "Center": {
+      "X": -700,
+      "Y": 700
+    },
+    "SizeFactor": 200
+  },
+  "846": {
+    "Texture": "e5d1_04",
+    "Name": "Upper Pagoda",
+    "Center": {
+      "X": -700,
+      "Y": 700
+    },
+    "SizeFactor": 200
+  },
+  "847": {
+    "Texture": "e5d1_05",
+    "Name": "Fifth Story",
+    "Center": {
+      "X": -700,
+      "Y": 540
+    },
+    "SizeFactor": 200
+  },
+  "848": {
+    "Texture": "e5d1_06",
+    "Name": "Pilgrim\u0027s Road",
+    "Center": {
+      "X": 741,
+      "Y": 141
+    },
+    "SizeFactor": 200
+  },
+  "849": {
+    "Texture": "e5d1_07",
+    "Name": "Ascetic\u0027s Climb",
+    "Center": {
+      "X": -10,
+      "Y": 20
+    },
+    "SizeFactor": 200
+  },
+  "850": {
+    "Texture": "e5d1_08",
+    "Name": "Shore of Far Sight",
+    "Center": {
+      "X": 900,
+      "Y": -866
+    },
+    "SizeFactor": 200
+  },
+  "851": {
+    "Texture": "e5d2_01",
+    "Name": "Path of the First Virtue",
+    "Center": {
+      "X": 0,
+      "Y": -40
+    },
+    "SizeFactor": 200
+  },
+  "852": {
+    "Texture": "e5d2_02",
+    "Name": "Path of the Second Virtue",
+    "Center": {
+      "X": 300,
+      "Y": -40
+    },
+    "SizeFactor": 200
+  },
+  "853": {
+    "Texture": "e5d2_03",
+    "Name": "Path of the Third Virtue",
+    "Center": {
+      "X": -200,
+      "Y": 7
+    },
+    "SizeFactor": 200
+  },
+  "854": {
+    "Texture": "s5p5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "855": {
+    "Texture": "y6t1_00",
+    "Name": "",
+    "Center": {
+      "X": -50,
+      "Y": 70
+    },
+    "SizeFactor": 180
+  },
+  "856": {
+    "Texture": "x6t1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -90
+    },
+    "SizeFactor": 180
+  },
+  "857": {
+    "Texture": "y6f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "858": {
+    "Texture": "y6f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "859": {
+    "Texture": "y6f3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "860": {
+    "Texture": "x6f1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "861": {
+    "Texture": "x6f2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "862": {
+    "Texture": "x6f3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "863": {
+    "Texture": "k5d2_04",
+    "Name": "",
+    "Center": {
+      "X": 288,
+      "Y": -220
+    },
+    "SizeFactor": 200
+  },
+  "864": {
+    "Texture": "z5d2_01",
+    "Name": "The Lunar Subterrane",
+    "Center": {
+      "X": -440,
+      "Y": -130
+    },
+    "SizeFactor": 200
+  },
+  "865": {
+    "Texture": "z5d2_02",
+    "Name": "Baron",
+    "Center": {
+      "X": 0,
+      "Y": -30
+    },
+    "SizeFactor": 200
+  },
+  "866": {
+    "Texture": "h1m2_13",
+    "Name": "Cave System",
+    "Center": {
+      "X": 175,
+      "Y": -138
+    },
+    "SizeFactor": 100
+  },
+  "867": {
+    "Texture": "o5d1_01",
+    "Name": "Island Foreshore",
+    "Center": {
+      "X": 0,
+      "Y": 785
+    },
+    "SizeFactor": 200
+  },
+  "868": {
+    "Texture": "o5d1_02",
+    "Name": "Island Coastline",
+    "Center": {
+      "X": -530,
+      "Y": 265
+    },
+    "SizeFactor": 200
+  },
+  "869": {
+    "Texture": "o5d1_04",
+    "Name": "Incalculable Approach",
+    "Center": {
+      "X": 101,
+      "Y": -35
+    },
+    "SizeFactor": 200
+  },
+  "870": {
+    "Texture": "o5d1_05",
+    "Name": "The Incalculable",
+    "Center": {
+      "X": 128,
+      "Y": -733
+    },
+    "SizeFactor": 200
+  },
+  "871": {
+    "Texture": "o5d1_06",
+    "Name": "Island Interior",
+    "Center": {
+      "X": 886,
+      "Y": 148
+    },
+    "SizeFactor": 200
+  },
+  "872": {
+    "Texture": "o5d1_07",
+    "Name": "Thatchroot",
+    "Center": {
+      "X": 907,
+      "Y": -530
+    },
+    "SizeFactor": 200
+  },
+  "873": {
+    "Texture": "o5d1_09",
+    "Name": "Arboreal Structure",
+    "Center": {
+      "X": 611,
+      "Y": -728
+    },
+    "SizeFactor": 200
+  },
+  "874": {
+    "Texture": "o5d1_10",
+    "Name": "Forgotten Sanctum",
+    "Center": {
+      "X": 950,
+      "Y": -756
+    },
+    "SizeFactor": 200
+  },
+  "875": {
+    "Texture": "o5d2_01",
+    "Name": "Dilumu",
+    "Center": {
+      "X": 0,
+      "Y": 60
+    },
+    "SizeFactor": 200
+  },
+  "876": {
+    "Texture": "o5d2_02",
+    "Name": "Qurupe",
+    "Center": {
+      "X": 200,
+      "Y": 75
+    },
+    "SizeFactor": 200
+  },
+  "877": {
+    "Texture": "o5d2_03",
+    "Name": "Nokosero",
+    "Center": {
+      "X": -200,
+      "Y": 7
+    },
+    "SizeFactor": 200
+  },
+  "878": {
+    "Texture": "default_00",
+    "Name": "Gentlebean\u0027s Fever",
+    "Center": {
+      "X": -200,
+      "Y": -240
+    },
+    "SizeFactor": 200
+  },
+  "879": {
+    "Texture": "default_00",
+    "Name": "Manderville-can Parade",
+    "Center": {
+      "X": 0,
+      "Y": -240
+    },
+    "SizeFactor": 200
+  },
+  "880": {
+    "Texture": "default_00",
+    "Name": "The Gold Swiveller",
+    "Center": {
+      "X": 200,
+      "Y": -124
+    },
+    "SizeFactor": 200
+  },
+  "881": {
+    "Texture": "default_00",
+    "Name": "Saucery Siege",
+    "Center": {
+      "X": -200,
+      "Y": 252
+    },
+    "SizeFactor": 200
+  },
+  "882": {
+    "Texture": "default_00",
+    "Name": "Manderville Mountain",
+    "Center": {
+      "X": 0,
+      "Y": 213
+    },
+    "SizeFactor": 200
+  },
+  "883": {
+    "Texture": "default_00",
+    "Name": "Lobbyville",
+    "Center": {
+      "X": 200,
+      "Y": 133
+    },
+    "SizeFactor": 200
+  },
+  "884": {
+    "Texture": "z5r3_01",
+    "Name": "Heaven of Water",
+    "Center": {
+      "X": -800,
+      "Y": -783
+    },
+    "SizeFactor": 200
+  },
+  "885": {
+    "Texture": "z5r3_02",
+    "Name": "Mind\u0027s Libation",
+    "Center": {
+      "X": -945,
+      "Y": 945
+    },
+    "SizeFactor": 200
+  },
+  "886": {
+    "Texture": "z5r3_03",
+    "Name": "Heaven of Wind",
+    "Center": {
+      "X": 0,
+      "Y": -850
+    },
+    "SizeFactor": 200
+  },
+  "887": {
+    "Texture": "z5r3_04",
+    "Name": "Mythic Mountains",
+    "Center": {
+      "X": 0,
+      "Y": 830
+    },
+    "SizeFactor": 200
+  },
+  "888": {
+    "Texture": "z5r3_05",
+    "Name": "The Wanderer\u0027s Heights",
+    "Center": {
+      "X": 0,
+      "Y": 750
+    },
+    "SizeFactor": 200
+  },
+  "889": {
+    "Texture": "z5r3_06",
+    "Name": "The Omphalos",
+    "Center": {
+      "X": 800,
+      "Y": 850
+    },
+    "SizeFactor": 200
+  },
+  "890": {
+    "Texture": "z5r3_07",
+    "Name": "Highest Heaven",
+    "Center": {
+      "X": 945,
+      "Y": -945
+    },
+    "SizeFactor": 200
+  },
+  "891": {
+    "Texture": "w1el_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -21
+    },
+    "SizeFactor": 800
+  },
+  "892": {
+    "Texture": "o5d1_03",
+    "Name": "Swiftstep Beach",
+    "Center": {
+      "X": -680,
+      "Y": -256
+    },
+    "SizeFactor": 200
+  },
+  "893": {
+    "Texture": "o5d1_08",
+    "Name": "Forgotten Footfalls",
+    "Center": {
+      "X": 847,
+      "Y": -658
+    },
+    "SizeFactor": 200
+  },
+  "894": {
+    "Texture": "z5fc_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "895": {
+    "Texture": "o5d1_11",
+    "Name": "Incalculable Boughs",
+    "Center": {
+      "X": 189,
+      "Y": -730
+    },
+    "SizeFactor": 200
+  },
+  "896": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "897": {
+    "Texture": "y6d1_01",
+    "Name": "Downriver Ihuykatumu",
+    "Center": {
+      "X": 44,
+      "Y": 88
+    },
+    "SizeFactor": 200
+  },
+  "898": {
+    "Texture": "y6d1_02",
+    "Name": "Midriver Ihuykatumu",
+    "Center": {
+      "X": 44,
+      "Y": 88
+    },
+    "SizeFactor": 200
+  },
+  "899": {
+    "Texture": "x6d1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 20
+    },
+    "SizeFactor": 200
+  },
+  "900": {
+    "Texture": "x6d4_01",
+    "Name": "Tender Valley",
+    "Center": {
+      "X": -130,
+      "Y": 348
+    },
+    "SizeFactor": 200
+  },
+  "901": {
+    "Texture": "x6d4_02",
+    "Name": "Faded Footstep",
+    "Center": {
+      "X": -130,
+      "Y": -354
+    },
+    "SizeFactor": 200
+  },
+  "902": {
+    "Texture": "y6d2_01",
+    "Name": "Zirgor Zormor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "903": {
+    "Texture": "y6d2_02",
+    "Name": "Morgardar Ridge",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "904": {
+    "Texture": "y6d2_03",
+    "Name": "Summit of Zor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "905": {
+    "Texture": "x6d2_01",
+    "Name": "Hover Docks",
+    "Center": {
+      "X": 30,
+      "Y": 63
+    },
+    "SizeFactor": 200
+  },
+  "906": {
+    "Texture": "x6d2_02",
+    "Name": "Lower Origenics",
+    "Center": {
+      "X": -153,
+      "Y": 77
+    },
+    "SizeFactor": 200
+  },
+  "907": {
+    "Texture": "x6d2_03",
+    "Name": "Transport Elevator",
+    "Center": {
+      "X": -88,
+      "Y": -180
+    },
+    "SizeFactor": 200
+  },
+  "908": {
+    "Texture": "x6d2_04",
+    "Name": "Middle Origenics",
+    "Center": {
+      "X": -55,
+      "Y": -142
+    },
+    "SizeFactor": 200
+  },
+  "909": {
+    "Texture": "x6d2_05",
+    "Name": "Upper Origenics",
+    "Center": {
+      "X": 120,
+      "Y": 108
+    },
+    "SizeFactor": 200
+  },
+  "910": {
+    "Texture": "x6d3_01",
+    "Name": "The Dream She Lived",
+    "Center": {
+      "X": -29,
+      "Y": 95
+    },
+    "SizeFactor": 200
+  },
+  "911": {
+    "Texture": "x6d3_02",
+    "Name": "Containment Area III",
+    "Center": {
+      "X": 852,
+      "Y": 823
+    },
+    "SizeFactor": 200
+  },
+  "912": {
+    "Texture": "x6d3_03",
+    "Name": "The Dream She Lost",
+    "Center": {
+      "X": 778,
+      "Y": 735
+    },
+    "SizeFactor": 200
+  },
+  "913": {
+    "Texture": "x6d3_04",
+    "Name": "Containment Area V",
+    "Center": {
+      "X": -533,
+      "Y": -373
+    },
+    "SizeFactor": 200
+  },
+  "914": {
+    "Texture": "x6d3_05",
+    "Name": "My Dream Everlasting",
+    "Center": {
+      "X": -642,
+      "Y": -507
+    },
+    "SizeFactor": 200
+  },
+  "915": {
+    "Texture": "y6d3_01",
+    "Name": "Gok Draak Cenotaph",
+    "Center": {
+      "X": 0,
+      "Y": -144
+    },
+    "SizeFactor": 200
+  },
+  "916": {
+    "Texture": "y6d3_02",
+    "Name": "Vurgar Quarry",
+    "Center": {
+      "X": 0,
+      "Y": -144
+    },
+    "SizeFactor": 200
+  },
+  "917": {
+    "Texture": "x6d5_01",
+    "Name": "Dreamborough South",
+    "Center": {
+      "X": 0,
+      "Y": 150
+    },
+    "SizeFactor": 200
+  },
+  "918": {
+    "Texture": "world_03",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "919": {
+    "Texture": "world_04",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "920": {
+    "Texture": "region_15",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "921": {
+    "Texture": "region_16",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "922": {
+    "Texture": "region_17",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "923": {
+    "Texture": "x6r2_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "924": {
+    "Texture": "x6r4_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "925": {
+    "Texture": "y6fa_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "926": {
+    "Texture": "x6r3_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "927": {
+    "Texture": "x6r1_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "928": {
+    "Texture": "x6fb_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "929": {
+    "Texture": "x6fa_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "930": {
+    "Texture": "x6d5_02",
+    "Name": "Dreamborough North",
+    "Center": {
+      "X": 100,
+      "Y": -350
+    },
+    "SizeFactor": 200
+  },
+  "931": {
+    "Texture": "y6e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 19
+    },
+    "SizeFactor": 400
+  },
+  "932": {
+    "Texture": "x6e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -8
+    },
+    "SizeFactor": 400
+  },
+  "933": {
+    "Texture": "y6e3_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 9
+    },
+    "SizeFactor": 400
+  },
+  "934": {
+    "Texture": "x6e2_00",
+    "Name": "",
+    "Center": {
+      "X": -1,
+      "Y": -6
+    },
+    "SizeFactor": 400
+  },
+  "935": {
+    "Texture": "default_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 640
+    },
+    "SizeFactor": 400
+  },
+  "936": {
+    "Texture": "y6e2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -31
+    },
+    "SizeFactor": 400
+  },
+  "937": {
+    "Texture": "x6e4_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "938": {
+    "Texture": "x6e5_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "939": {
+    "Texture": "y6ti_00",
+    "Name": "",
+    "Center": {
+      "X": -210,
+      "Y": 285
+    },
+    "SizeFactor": 800
+  },
+  "940": {
+    "Texture": "f1dc_00",
+    "Name": "",
+    "Center": {
+      "X": -32,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "941": {
+    "Texture": "n4d9_10",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -286
+    },
+    "SizeFactor": 200
+  },
+  "942": {
+    "Texture": "s1p6_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "943": {
+    "Texture": "x6d6_01",
+    "Name": "Wawsatenyazeto",
+    "Center": {
+      "X": 35,
+      "Y": 398
+    },
+    "SizeFactor": 200
+  },
+  "944": {
+    "Texture": "x6d6_02",
+    "Name": "Shrouded Laboratory",
+    "Center": {
+      "X": 87,
+      "Y": -156
+    },
+    "SizeFactor": 200
+  },
+  "945": {
+    "Texture": "x6d6_03",
+    "Name": "Bedrock",
+    "Center": {
+      "X": 34,
+      "Y": -710
+    },
+    "SizeFactor": 200
+  },
+  "946": {
+    "Texture": "z6r1_01",
+    "Name": "Lower Jeuno",
+    "Center": {
+      "X": 800,
+      "Y": 595
+    },
+    "SizeFactor": 200
+  },
+  "947": {
+    "Texture": "z6r1_02",
+    "Name": "The Boyahda Tree",
+    "Center": {
+      "X": -464,
+      "Y": 710
+    },
+    "SizeFactor": 200
+  },
+  "948": {
+    "Texture": "z6r1_03",
+    "Name": "Ru\u0027Aun Gardens",
+    "Center": {
+      "X": -566,
+      "Y": -580
+    },
+    "SizeFactor": 200
+  },
+  "949": {
+    "Texture": "z6r1_04",
+    "Name": "La\u0027Loff Amphitheater",
+    "Center": {
+      "X": 864,
+      "Y": -820
+    },
+    "SizeFactor": 200
+  },
+  "950": {
+    "Texture": "z6r1_05",
+    "Name": "Castle Zvahl",
+    "Center": {
+      "X": 864,
+      "Y": -820
+    },
+    "SizeFactor": 200
+  },
+  "951": {
+    "Texture": "z6r1_06",
+    "Name": "Throne Room",
+    "Center": {
+      "X": 150,
+      "Y": 800
+    },
+    "SizeFactor": 200
+  },
+  "952": {
+    "Texture": "l1rz_01",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "953": {
+    "Texture": "l1rz_02",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "954": {
+    "Texture": "l1rz_03",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "955": {
+    "Texture": "z6e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -58
+    },
+    "SizeFactor": 400
+  },
+  "956": {
+    "Texture": "f1ec_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "957": {
+    "Texture": "w1em_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 800
+  },
+  "958": {
+    "Texture": "h1i1_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "959": {
+    "Texture": "h1i1_02",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "960": {
+    "Texture": "h1i2_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "961": {
+    "Texture": "h1i2_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "962": {
+    "Texture": "h1i2_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "963": {
+    "Texture": "h1i3_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "964": {
+    "Texture": "h1i3_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "965": {
+    "Texture": "h1i3_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "966": {
+    "Texture": "x6e7_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "967": {
+    "Texture": "o6b1_01",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "968": {
+    "Texture": "o6b1_02",
+    "Name": "Tower Base",
+    "Center": {
+      "X": 700,
+      "Y": 416
+    },
+    "SizeFactor": 200
+  },
+  "969": {
+    "Texture": "o6b1_03",
+    "Name": "Central Gallery",
+    "Center": {
+      "X": 700,
+      "Y": 10
+    },
+    "SizeFactor": 200
+  },
+  "970": {
+    "Texture": "o6b1_04",
+    "Name": "Upper Interior",
+    "Center": {
+      "X": -547,
+      "Y": 195
+    },
+    "SizeFactor": 200
+  },
+  "971": {
+    "Texture": "o6b1_05",
+    "Name": "Towertop Gateway",
+    "Center": {
+      "X": 700,
+      "Y": -350
+    },
+    "SizeFactor": 200
+  },
+  "972": {
+    "Texture": "x6d6_01",
+    "Name": "Wawsatenyazeto",
+    "Center": {
+      "X": 35,
+      "Y": 398
+    },
+    "SizeFactor": 200
+  },
+  "973": {
+    "Texture": "x6d6_02",
+    "Name": "Shrouded Laboratory",
+    "Center": {
+      "X": 87,
+      "Y": -156
+    },
+    "SizeFactor": 200
+  },
+  "974": {
+    "Texture": "x6d6_03",
+    "Name": "Bedrock",
+    "Center": {
+      "X": 34,
+      "Y": -710
+    },
+    "SizeFactor": 200
+  },
+  "975": {
+    "Texture": "o6b1_06",
+    "Name": "Central West Passage",
+    "Center": {
+      "X": 615,
+      "Y": -121
+    },
+    "SizeFactor": 200
+  },
+  "976": {
+    "Texture": "o6b1_07",
+    "Name": "Central East Passage",
+    "Center": {
+      "X": 784,
+      "Y": -120
+    },
+    "SizeFactor": 200
+  },
+  "977": {
+    "Texture": "o6b1_08",
+    "Name": "Secret Nook 1",
+    "Center": {
+      "X": 532,
+      "Y": -36
+    },
+    "SizeFactor": 200
+  },
+  "978": {
+    "Texture": "o6b1_09",
+    "Name": "Secret Nook 2",
+    "Center": {
+      "X": 528,
+      "Y": 54
+    },
+    "SizeFactor": 200
+  },
+  "979": {
+    "Texture": "o6b1_10",
+    "Name": "Secret Nook 3",
+    "Center": {
+      "X": 553,
+      "Y": -112
+    },
+    "SizeFactor": 200
+  },
+  "980": {
+    "Texture": "o6b1_11",
+    "Name": "Secret Nook 4",
+    "Center": {
+      "X": 644,
+      "Y": -176
+    },
+    "SizeFactor": 200
+  },
+  "981": {
+    "Texture": "o6b1_12",
+    "Name": "Secret Nook 5",
+    "Center": {
+      "X": 867,
+      "Y": -36
+    },
+    "SizeFactor": 200
+  },
+  "982": {
+    "Texture": "o6b1_13",
+    "Name": "Secret Nook 6",
+    "Center": {
+      "X": 872,
+      "Y": 54
+    },
+    "SizeFactor": 200
+  },
+  "983": {
+    "Texture": "o6b1_14",
+    "Name": "Secret Nook 7",
+    "Center": {
+      "X": 755,
+      "Y": -176
+    },
+    "SizeFactor": 200
+  },
+  "984": {
+    "Texture": "o6b1_15",
+    "Name": "Secret Nook 8",
+    "Center": {
+      "X": 846,
+      "Y": -111
+    },
+    "SizeFactor": 200
+  },
+  "985": {
+    "Texture": "o6b1_16",
+    "Name": "Upper Exterior",
+    "Center": {
+      "X": -800,
+      "Y": 387
+    },
+    "SizeFactor": 200
+  },
+  "986": {
+    "Texture": "o6b1_17",
+    "Name": "Towertop Passage",
+    "Center": {
+      "X": 700,
+      "Y": -573
+    },
+    "SizeFactor": 200
+  },
+  "987": {
+    "Texture": "o6b1_18",
+    "Name": "Secluded Stacks",
+    "Center": {
+      "X": 700,
+      "Y": -774
+    },
+    "SizeFactor": 200
+  },
+  "988": {
+    "Texture": "o6b1_19",
+    "Name": "Top Secret Nook 1",
+    "Center": {
+      "X": 813,
+      "Y": -506
+    },
+    "SizeFactor": 200
+  },
+  "989": {
+    "Texture": "o6b1_20",
+    "Name": "Top Secret Nook 2",
+    "Center": {
+      "X": 640,
+      "Y": -470
+    },
+    "SizeFactor": 200
+  },
+  "990": {
+    "Texture": "o6b1_21",
+    "Name": "Top Secret Nook 3",
+    "Center": {
+      "X": 583,
+      "Y": -571
+    },
+    "SizeFactor": 200
+  },
+  "991": {
+    "Texture": "x6r6_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "992": {
+    "Texture": "x6r5_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "993": {
+    "Texture": "x6r8_01",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "994": {
+    "Texture": "x6r8_02",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "995": {
+    "Texture": "x6d7_01",
+    "Name": "Foundation Sector",
+    "Center": {
+      "X": -122,
+      "Y": 273
+    },
+    "SizeFactor": 200
+  },
+  "996": {
+    "Texture": "x6d7_02",
+    "Name": "Royal Radius",
+    "Center": {
+      "X": -111,
+      "Y": -19
+    },
+    "SizeFactor": 200
+  },
+  "997": {
+    "Texture": "x6d7_03",
+    "Name": "Retrolevel 1",
+    "Center": {
+      "X": 0,
+      "Y": -248
+    },
+    "SizeFactor": 200
+  },
+  "998": {
+    "Texture": "x6d7_04",
+    "Name": "Retrolevel 2",
+    "Center": {
+      "X": 0,
+      "Y": -248
+    },
+    "SizeFactor": 200
+  },
+  "999": {
+    "Texture": "x6d7_05",
+    "Name": "Retrolevel 3",
+    "Center": {
+      "X": 0,
+      "Y": -248
+    },
+    "SizeFactor": 200
+  },
+  "1000": {
+    "Texture": "x6r7_01",
+    "Name": "Residential Radius 8-71",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1001": {
+    "Texture": "x6r7_02",
+    "Name": "Residential Radius 8-72",
+    "Center": {
+      "X": 100,
+      "Y": 5
+    },
+    "SizeFactor": 400
+  },
+  "1002": {
+    "Texture": "x6r7_03",
+    "Name": "Residential Rubble 8-72",
+    "Center": {
+      "X": 100,
+      "Y": 5
+    },
+    "SizeFactor": 400
+  },
+  "1003": {
+    "Texture": "c1w1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1004": {
+    "Texture": "c1w1_02",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1005": {
+    "Texture": "c1w1_03",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1006": {
+    "Texture": "c1w1_04",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1007": {
+    "Texture": "c1w1_05",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1008": {
+    "Texture": "c1w1_06",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1009": {
+    "Texture": "c1w1_07",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1010": {
+    "Texture": "c1w1_08",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1011": {
+    "Texture": "c1w1_09",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1012": {
+    "Texture": "c1w1_10",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1013": {
+    "Texture": "c1w1_11",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1014": {
+    "Texture": "c1w1_12",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1015": {
+    "Texture": "c1w1_13",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1016": {
+    "Texture": "c1w1_14",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1017": {
+    "Texture": "c1w1_15",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1018": {
+    "Texture": "c1w1_16",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1019": {
+    "Texture": "c1w1_17",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1020": {
+    "Texture": "c1w1_18",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1021": {
+    "Texture": "c1w1_19",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1022": {
+    "Texture": "c1w1_20",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1023": {
+    "Texture": "x6e8_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1024": {
+    "Texture": "x6e9_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1025": {
+    "Texture": "o6e1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": -40
+    },
+    "SizeFactor": 400
+  },
+  "1026": {
+    "Texture": "o6e2_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1027": {
+    "Texture": "x6d6_01",
+    "Name": "Wawsatenyazeto",
+    "Center": {
+      "X": 35,
+      "Y": 398
+    },
+    "SizeFactor": 200
+  },
+  "1028": {
+    "Texture": "x6d6_02",
+    "Name": "Shrouded Laboratory",
+    "Center": {
+      "X": 87,
+      "Y": -156
+    },
+    "SizeFactor": 200
+  },
+  "1029": {
+    "Texture": "x6d6_03",
+    "Name": "Bedrock",
+    "Center": {
+      "X": 34,
+      "Y": -710
+    },
+    "SizeFactor": 200
+  },
+  "1030": {
+    "Texture": "x6fd_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1031": {
+    "Texture": "c1w1_21",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1032": {
+    "Texture": "x6r8_03",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  }
+}
