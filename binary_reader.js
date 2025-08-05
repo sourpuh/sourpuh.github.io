@@ -64,7 +64,6 @@ class BinaryReader {
 
     readString() {
         const length = this.read7BitEncodedInt();
-        console.log(length);
         const bytes = new Uint8Array(this.dataView.buffer, this.dataView.byteOffset + this.offset, length);
         this.offset += length;
         const decoder = new TextDecoder('utf-8');

@@ -28,28 +28,45 @@ function deserializeXZOffset(reader, preset) {
     preset.Name = reader.readString();
 }
 
-export function deserializeWaymarkPresetV1(b) {
+function deserializeWaymarkPresetV1(b) {
     const preset = new WaymarkPreset();
     const reader = new BinaryReader(b);
+    const format = reader.read7BitEncodedInt();
+    if (format == 0) {
+        deserializeDefault(reader, preset);
+    } else if (format == 1) {
+        deserializeXZOffset(reader, preset);
+    } else {
+        throw new Error("Unable to deserialize preset: unsupported preset format " + format);
+    }
+    const computedChecksum = calculateCrc32(b, 0, reader.offset);
+    return [preset, computedChecksum];
+}
 
+export function importPreset(s) {
     try {
-        const format = reader.read7BitEncodedInt();
-        if (format == 0) {
-            deserializeDefault(reader, preset);
-        } else if (format == 1) {
-            deserializeXZOffset(reader, preset);
-        } else {
-            throw new Error("Unsupported preset format. " + format);
+        const parts = s.split('.');
+        if (parts.length != 3) {
+            throw new Error("Unable to import preset: unexpected preset part count " + parts.length);
         }
-        const computedChecksum = calculateCrc32(b, 0, reader.offset);
-        const expectedChecksum = reader.readUInt32();
+
+        const prefix = parts[0];
+        const dataB64 = parts[1];
+        const checksumB64 = parts[2];
+
+        if (prefix != "wms1") {
+            throw new Error("Unable to import preset: missing wms1 prefix");
+        }
+
+        const dataBytes = Uint8Array.fromBase64(dataB64);
+        const [preset, computedChecksum] = deserializeWaymarkPresetV1(dataBytes);
+        const expectedChecksum = new Uint32Array(Uint8Array.fromBase64(checksumB64).buffer)[0];
         if (computedChecksum != expectedChecksum) {
-            throw new Error("Corrupt preset: checksum does not match");
+            throw new Error("Unable to import preset: corrupted; checksum does not match");
         }
+        return preset;
     } catch (e) {
         console.error("Error during deserialization:", e);
         throw e;
     }
-
-    return preset;
 }

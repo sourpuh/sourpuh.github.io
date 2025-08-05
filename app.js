@@ -1,31 +1,24 @@
-import { deserializeWaymarkPresetV1 } from "./wms_importer.js";
 import { loadGameData } from "./data_loader.js";
+import { importPreset } from "./wms_importer.js";
 import { renderWaymarksOnMaps } from "./map_renderer.js";
+
+var gameDataPromise = loadGameData();
 
 document.addEventListener('DOMContentLoaded', async () => {
     const urlParams = new URLSearchParams(window.location.search);
-    const nameParam = urlParams.get('preset');
+    const presetParam = urlParams.get('preset');
 
-    if (nameParam) {
-        const b64String = nameParam.replace(/-/g, '+').replace(/_/g, '/');
-        const decodedString = atob(b64String.substring("wms1".length));
-        const byteArray = Uint8Array.from(decodedString, char => char.charCodeAt(0));
+    if (presetParam) {
+        const presetBase64 = presetParam.replace(/-/g, '+').replace(/_/g, '/');
+        const preset = importPreset(presetBase64);
 
-        let preset;
-        try {
-            preset = deserializeWaymarkPresetV1(byteArray);
-        } catch (error) {
-            console.error("Failed to deserialize waymark preset:", error);
-            return;
-        }
-
-        const paramValueElement = document.getElementById('presetName');
-        if (paramValueElement) {
-            paramValueElement.textContent = preset.Name;
+        const presetNameElement = document.getElementById('presetName');
+        if (presetNameElement) {
+            presetNameElement.textContent = preset.Name;
         }
 
         try {
-            const { territorySheet, mapSheet, contentTypeSheet, expansionSheet } = await loadGameData();
+            const { territorySheet, mapSheet, contentTypeSheet, expansionSheet } = await gameDataPromise;
 
             const territoryInfo = territorySheet[preset.TerritoryId.toString()];
             if (!territoryInfo) {
