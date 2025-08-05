@@ -43,6 +43,11 @@ function deserializeWaymarkPresetV1(b) {
     return [preset, computedChecksum];
 }
 
+function b64ToBytes(s) {
+    const decodedString = atob(s);
+    return Uint8Array.from(decodedString, char => char.charCodeAt(0));
+}
+
 export function importPreset(s) {
     try {
         const parts = s.split('.');
@@ -58,9 +63,9 @@ export function importPreset(s) {
             throw new Error("Unable to import preset: missing wms1 prefix");
         }
 
-        const dataBytes = Uint8Array.fromBase64(dataB64);
+        const dataBytes = b64ToBytes(dataB64);
         const [preset, computedChecksum] = deserializeWaymarkPresetV1(dataBytes);
-        const expectedChecksum = new Uint32Array(Uint8Array.fromBase64(checksumB64).buffer)[0];
+        const expectedChecksum = new Uint32Array(b64ToBytes(checksumB64).buffer)[0];
         if (computedChecksum != expectedChecksum) {
             throw new Error("Unable to import preset: corrupted; checksum does not match");
         }
