@@ -7093,7 +7093,7 @@
   },
   "788": {
     "Texture": "k5e5_00",
-    "Name": "",
+    "Name": "Aetherial Lens",
     "Center": {
       "X": -8,
       "Y": 501
@@ -9295,5 +9295,617 @@
       "Y": 100
     },
     "SizeFactor": 400
+  },
+  "1033": {
+    "Texture": "z6r2_01",
+    "Name": "San d\u0027Oria",
+    "Center": {
+      "X": 826,
+      "Y": 871
+    },
+    "SizeFactor": 200
+  },
+  "1034": {
+    "Texture": "z6r2_02",
+    "Name": "Ronfaure",
+    "Center": {
+      "X": 594,
+      "Y": 796
+    },
+    "SizeFactor": 200
+  },
+  "1035": {
+    "Texture": "z6r2_03",
+    "Name": "Horlais Peak",
+    "Center": {
+      "X": -850,
+      "Y": 863
+    },
+    "SizeFactor": 200
+  },
+  "1036": {
+    "Texture": "z6r2_04",
+    "Name": "Armada Airship J-I",
+    "Center": {
+      "X": 800,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "1037": {
+    "Texture": "z6r2_05",
+    "Name": "Armada Airship J-II",
+    "Center": {
+      "X": 650,
+      "Y": 400
+    },
+    "SizeFactor": 200
+  },
+  "1038": {
+    "Texture": "z6r2_06",
+    "Name": "Armada Airship J-III",
+    "Center": {
+      "X": 800,
+      "Y": 800
+    },
+    "SizeFactor": 200
+  },
+  "1039": {
+    "Texture": "z6r2_07",
+    "Name": "Armada Airship J-IV",
+    "Center": {
+      "X": 750,
+      "Y": 800
+    },
+    "SizeFactor": 200
+  },
+  "1040": {
+    "Texture": "z6r2_08",
+    "Name": "Qufim",
+    "Center": {
+      "X": -850,
+      "Y": -838
+    },
+    "SizeFactor": 200
+  },
+  "1041": {
+    "Texture": "z6r2_09",
+    "Name": "Stellar Fulcrum",
+    "Center": {
+      "X": -200,
+      "Y": 150
+    },
+    "SizeFactor": 200
+  },
+  "1042": {
+    "Texture": "z6r2_10",
+    "Name": "The Shrine of Ru\u0027Avitau",
+    "Center": {
+      "X": 50,
+      "Y": -100
+    },
+    "SizeFactor": 200
+  },
+  "1043": {
+    "Texture": "z6r2_11",
+    "Name": "The Celestial Nexus",
+    "Center": {
+      "X": 800,
+      "Y": -800
+    },
+    "SizeFactor": 200
+  },
+  "1044": {
+    "Texture": "z6r2_12",
+    "Name": "Stellar Fulcrum",
+    "Center": {
+      "X": -200,
+      "Y": 150
+    },
+    "SizeFactor": 200
+  },
+  "1045": {
+    "Texture": "x6fe_01",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1046": {
+    "Texture": "x6fe_02",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": -100
+    },
+    "SizeFactor": 400
+  },
+  "1047": {
+    "Texture": "x6fe_03",
+    "Name": "",
+    "Center": {
+      "X": 300,
+      "Y": -100
+    },
+    "SizeFactor": 400
+  },
+  "1048": {
+    "Texture": "x6fe_04",
+    "Name": "",
+    "Center": {
+      "X": 300,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1049": {
+    "Texture": "x6fe_05",
+    "Name": "",
+    "Center": {
+      "X": 300,
+      "Y": 300
+    },
+    "SizeFactor": 400
+  },
+  "1050": {
+    "Texture": "x6fe_06",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 300
+    },
+    "SizeFactor": 400
+  },
+  "1051": {
+    "Texture": "x6fe_07",
+    "Name": "",
+    "Center": {
+      "X": -100,
+      "Y": 300
+    },
+    "SizeFactor": 400
+  },
+  "1052": {
+    "Texture": "x6fe_08",
+    "Name": "",
+    "Center": {
+      "X": -100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1053": {
+    "Texture": "x6fe_09",
+    "Name": "",
+    "Center": {
+      "X": -100,
+      "Y": -100
+    },
+    "SizeFactor": 400
+  },
+  "1054": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1055": {
+    "Texture": "x6d8_01",
+    "Name": "Lower Circuits",
+    "Center": {
+      "X": 132,
+      "Y": 113
+    },
+    "SizeFactor": 200
+  },
+  "1056": {
+    "Texture": "x6d8_02",
+    "Name": "Central Circuits",
+    "Center": {
+      "X": 92,
+      "Y": -160
+    },
+    "SizeFactor": 200
+  },
+  "1057": {
+    "Texture": "x6d8_03",
+    "Name": "Upper Circuits",
+    "Center": {
+      "X": -80,
+      "Y": 118
+    },
+    "SizeFactor": 200
+  },
+  "1058": {
+    "Texture": "x6d8_04",
+    "Name": "Non-volatile Memory",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "1059": {
+    "Texture": "x6c1_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1060": {
+    "Texture": "s5p6_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1061": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1062": {
+    "Texture": "x6eb_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1063": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1064": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1065": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1066": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1067": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1068": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1069": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1070": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1071": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1072": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1073": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1074": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1075": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1076": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1077": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1078": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1079": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1080": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1081": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1082": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1083": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1084": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1085": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1086": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1087": {
+    "Texture": "z6r2_13",
+    "Name": "Stellar Fulcrum",
+    "Center": {
+      "X": -200,
+      "Y": 150
+    },
+    "SizeFactor": 200
+  },
+  "1088": {
+    "Texture": "f1d9_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "1089": {
+    "Texture": "f1d9_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "1090": {
+    "Texture": "f1d9_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 200
+  },
+  "1091": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1092": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1093": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1094": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1095": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1096": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1097": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1098": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1099": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1100": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
   }
 }
