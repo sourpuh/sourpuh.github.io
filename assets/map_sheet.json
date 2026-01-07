@@ -9486,13 +9486,13 @@
     "SizeFactor": 400
   },
   "1054": {
-    "Texture": "",
+    "Texture": "y6e5_01",
     "Name": "",
     "Center": {
       "X": 0,
-      "Y": 0
+      "Y": 135
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1055": {
     "Texture": "x6d8_01",
@@ -9549,13 +9549,13 @@
     "SizeFactor": 400
   },
   "1061": {
-    "Texture": "",
+    "Texture": "f1dd_00",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1062": {
     "Texture": "x6eb_00",
@@ -9567,220 +9567,220 @@
     "SizeFactor": 400
   },
   "1063": {
-    "Texture": "",
+    "Texture": "x6ff_01",
     "Name": "",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 100,
+      "Y": 100
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1064": {
-    "Texture": "",
+    "Texture": "x6ff_02",
     "Name": "",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 35,
+      "Y": 745
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1065": {
-    "Texture": "",
+    "Texture": "c1w2_00",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1066": {
-    "Texture": "",
+    "Texture": "c1w2_02",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1067": {
-    "Texture": "",
+    "Texture": "c1w2_03",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1068": {
-    "Texture": "",
+    "Texture": "c1w2_04",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1069": {
-    "Texture": "",
+    "Texture": "c1w2_05",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1070": {
-    "Texture": "",
+    "Texture": "c1w2_06",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1071": {
-    "Texture": "",
+    "Texture": "c1w2_07",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1072": {
-    "Texture": "",
+    "Texture": "c1w2_08",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1073": {
-    "Texture": "",
+    "Texture": "c1w2_09",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1074": {
-    "Texture": "",
+    "Texture": "c1w2_10",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1075": {
-    "Texture": "",
+    "Texture": "c1w2_11",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1076": {
-    "Texture": "",
+    "Texture": "c1w2_12",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1077": {
-    "Texture": "",
+    "Texture": "c1w2_13",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1078": {
-    "Texture": "",
+    "Texture": "c1w2_14",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1079": {
-    "Texture": "",
+    "Texture": "c1w2_15",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1080": {
-    "Texture": "",
+    "Texture": "c1w2_16",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1081": {
-    "Texture": "",
+    "Texture": "c1w2_17",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1082": {
-    "Texture": "",
+    "Texture": "c1w2_18",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1083": {
-    "Texture": "",
+    "Texture": "c1w2_19",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1084": {
-    "Texture": "",
+    "Texture": "c1w2_20",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1085": {
-    "Texture": "",
+    "Texture": "c1w2_21",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1086": {
-    "Texture": "",
+    "Texture": "c1w2_22",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1087": {
     "Texture": "z6r2_13",
@@ -9819,78 +9819,213 @@
     "SizeFactor": 200
   },
   "1091": {
-    "Texture": "",
+    "Texture": "y6e5_02",
     "Name": "",
     "Center": {
       "X": 0,
-      "Y": 0
+      "Y": 135
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1092": {
-    "Texture": "",
+    "Texture": "y6e5_03",
     "Name": "",
     "Center": {
       "X": 0,
-      "Y": 0
+      "Y": 135
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1093": {
-    "Texture": "",
+    "Texture": "y6e5_04",
     "Name": "",
     "Center": {
       "X": 0,
-      "Y": 0
+      "Y": 135
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1094": {
-    "Texture": "",
+    "Texture": "y6e5_05",
     "Name": "",
     "Center": {
       "X": 0,
-      "Y": 0
+      "Y": 135
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1095": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "x6d9_01",
+    "Name": "Quan Caverns",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 143,
+      "Y": 475
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1096": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "x6d9_02",
+    "Name": "Treno Lowlands",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 194,
+      "Y": -147
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1097": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "x6d9_03",
+    "Name": "The City of Treno",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 263,
+      "Y": -476
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1098": {
-    "Texture": "",
+    "Texture": "default_00",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1099": {
+    "Texture": "x6r9_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1100": {
+    "Texture": "x6fg_01",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1101": {
+    "Texture": "x6fg_02",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 150
+    },
+    "SizeFactor": 400
+  },
+  "1102": {
+    "Texture": "x6fg_03",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 200
+    },
+    "SizeFactor": 400
+  },
+  "1103": {
+    "Texture": "x6fg_04",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 250
+    },
+    "SizeFactor": 400
+  },
+  "1104": {
+    "Texture": "x6fg_05",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 300
+    },
+    "SizeFactor": 400
+  },
+  "1105": {
+    "Texture": "x6fg_06",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1106": {
+    "Texture": "x6fg_07",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 150
+    },
+    "SizeFactor": 400
+  },
+  "1107": {
+    "Texture": "x6fg_08",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 200
+    },
+    "SizeFactor": 400
+  },
+  "1108": {
+    "Texture": "x6fg_09",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 250
+    },
+    "SizeFactor": 400
+  },
+  "1109": {
+    "Texture": "x6fg_10",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 300
+    },
+    "SizeFactor": 400
+  },
+  "1110": {
+    "Texture": "x6fg_11",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 350
+    },
+    "SizeFactor": 400
+  },
+  "1111": {
+    "Texture": "x6fg_12",
+    "Name": "",
+    "Center": {
+      "X": -400,
+      "Y": -400
+    },
+    "SizeFactor": 400
+  },
+  "1112": {
+    "Texture": "x6ra_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1113": {
+    "Texture": "x6rb_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1114": {
     "Texture": "",
     "Name": "",
     "Center": {
@@ -9899,7 +10034,7 @@
     },
     "SizeFactor": 0
   },
-  "1100": {
+  "1115": {
     "Texture": "",
     "Name": "",
     "Center": {
@@ -9907,5 +10042,491 @@
       "Y": 0
     },
     "SizeFactor": 0
+  },
+  "1116": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1117": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1118": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1119": {
+    "Texture": "y6p1_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 100
+  },
+  "1120": {
+    "Texture": "x6d9_04",
+    "Name": "Quan Caverns",
+    "Center": {
+      "X": 143,
+      "Y": 475
+    },
+    "SizeFactor": 200
+  },
+  "1121": {
+    "Texture": "x6d9_05",
+    "Name": "Treno Lowlands",
+    "Center": {
+      "X": 172,
+      "Y": -7
+    },
+    "SizeFactor": 200
+  },
+  "1122": {
+    "Texture": "x6d9_06",
+    "Name": "The City of Treno",
+    "Center": {
+      "X": 264,
+      "Y": -476
+    },
+    "SizeFactor": 200
+  },
+  "1123": {
+    "Texture": "x6ed_00",
+    "Name": "",
+    "Center": {
+      "X": 1,
+      "Y": -25
+    },
+    "SizeFactor": 400
+  },
+  "1124": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1125": {
+    "Texture": "x6ee_00",
+    "Name": "",
+    "Center": {
+      "X": 12,
+      "Y": -2
+    },
+    "SizeFactor": 400
+  },
+  "1126": {
+    "Texture": "f1ed_01",
+    "Name": "",
+    "Center": {
+      "X": -700,
+      "Y": -700
+    },
+    "SizeFactor": 400
+  },
+  "1127": {
+    "Texture": "f1ed_02",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": -700
+    },
+    "SizeFactor": 400
+  },
+  "1128": {
+    "Texture": "f1ed_03",
+    "Name": "",
+    "Center": {
+      "X": 900,
+      "Y": -700
+    },
+    "SizeFactor": 400
+  },
+  "1129": {
+    "Texture": "f1ed_04",
+    "Name": "",
+    "Center": {
+      "X": -700,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1130": {
+    "Texture": "f1ed_05",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1131": {
+    "Texture": "f1ed_06",
+    "Name": "",
+    "Center": {
+      "X": 900,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1132": {
+    "Texture": "f1ed_07",
+    "Name": "",
+    "Center": {
+      "X": -700,
+      "Y": 900
+    },
+    "SizeFactor": 400
+  },
+  "1133": {
+    "Texture": "f1ed_08",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 900
+    },
+    "SizeFactor": 400
+  },
+  "1134": {
+    "Texture": "f1ed_09",
+    "Name": "",
+    "Center": {
+      "X": 900,
+      "Y": 900
+    },
+    "SizeFactor": 400
+  },
+  "1135": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1136": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1137": {
+    "Texture": "x6ef_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1138": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1139": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1140": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1141": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1142": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1143": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1144": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1145": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1146": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1147": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1148": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1149": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1150": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1151": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1152": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1153": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1154": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1155": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1156": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1157": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1158": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1159": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1160": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1161": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1162": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1163": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1164": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1165": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1166": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1167": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1168": {
+    "Texture": "x6rc_01",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1169": {
+    "Texture": "x6rc_02",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
   }
 }
