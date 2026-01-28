@@ -143,6 +143,15 @@
                         <h3 id="locationName" class="text-xl font-semibold mb-1">$location_name</h3>
                         <h3 id="presetName" class="text-2xl font-semibold mb-1">$preset_name</h3>
                         <div id="waymarkMapsContainer" class="flex flex-wrap justify-center gap-4 p-4"></div>
+                        <div id="wppExportContainer" class="hidden">
+                            <div class="flex items-center gap-2">
+                                <pre id="wppExportJson" class="bg-gray-700 p-3 rounded text-sm overflow-x-auto flex-1"></pre>
+                                <button id="copyWppBtn" title="Copy JSON" class="px-3 py-3 bg-gray-600 text-white font-bold rounded-lg shadow-md hover:bg-gray-500 transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-gray-400 focus:ring-opacity-75">
+                                    📋
+                                </button>
+                            </div>
+                            <div id="copyWppMessage" class="mt-2 text-sm text-green-700 hidden">Copied to clipboard!</div>
+                        </div>
                     </div>
                 </section>
 
