@@ -74,41 +74,59 @@ export function renderWaymarksOnMaps(preset, territoryInfo, mapSheet, parentElem
         const mapElement = document.getElementById(`waymarkMap-${mapRenderIndex}`);
 
         mapImageElement.onload = function() {
+            // Sub-pixel rendered dimensions for final pixel placement; the IDL .width
+            // attribute is integer-rounded, which drifts visibly at high zoom.
+            const imgRect = mapImageElement.getBoundingClientRect();
+            const imgW = imgRect.width;
+            const imgH = imgRect.height;
+            // World->normalized-texture conversion uses the natural texture size, not the
+            // rendered size, so waymark scale stays consistent with the image's pixel grid
+            // even when CSS shrinks the image (e.g. Tailwind max-width: 100%).
+            const naturalW = mapImageElement.naturalWidth;
+
             const effectiveBoundingBoxSize = Math.max(waymarksOnThisMapBB.getLongAxisLength(), 30);
             const waymarksCenter = waymarksOnThisMapBB.getCenter();
             const isDefaultMap = territoryInfo.IsDefault;
             // World units to normalized texture units
             const mapScaleFactor = isDefaultMap
                 ? 0.5 / effectiveBoundingBoxSize
-                : (map.SizeFactor / 100) / mapImageElement.naturalWidth;
+                : (map.SizeFactor / 100) / naturalW;
             const projectionCenterX = isDefaultMap ? waymarksCenter.X : map.Center.X;
             const projectionCenterY = isDefaultMap ? waymarksCenter.Z : map.Center.Y;
+
+            const waymarkBgItems = [];
 
             // Append waymarks to the current map element
             for (const waymark of waymarksOnThisMap) {
                 const position3d = preset.MarkerPositions.get(waymark);
 
-                const extraScale = 10;
-                const scale = extraScale * mapImageElement.width * mapScaleFactor;
-
                 const x = (position3d.X - projectionCenterX) * mapScaleFactor + 0.5;
                 const y = (position3d.Z - projectionCenterY) * mapScaleFactor + 0.5;
+                const px = imgW * x;
+                const py = imgH * y;
+                // Visible bg size (in CSS px) at panzoom scale = 1.
+                const baseSize = getWaymarkSize(waymark) * imgW * mapScaleFactor;
 
                 const waymarkBgItem = document.createElement('div');
                 waymarkBgItem.classList.add("waymark", getWaymarkClass(waymark));
-                waymarkBgItem.style.width = getWaymarkSize(waymark) * scale + "px";
-                waymarkBgItem.style.height = getWaymarkSize(waymark) * scale + "px";
+                waymarkBgItem.style.borderWidth = '2px';
                 waymarkBgItem.style.borderRadius = getWaymarkBorderRadius(waymark);
-                waymarkBgItem.style.left = `${mapImageElement.width * x}px`;
-                waymarkBgItem.style.top = `${mapImageElement.height * y}px`;
-                waymarkBgItem.style.transform = `translate(-50%, -50%) scale(${1/extraScale})`;
+                waymarkBgItem.style.left = '0';
+                waymarkBgItem.style.top = '0';
+                waymarkBgItem.style.transformOrigin = '0 0';
+                waymarkBgItem.dataset.px = px;
+                waymarkBgItem.dataset.py = py;
+                waymarkBgItem.dataset.baseSize = baseSize;
                 mapElement.appendChild(waymarkBgItem);
+                waymarkBgItems.push(waymarkBgItem);
 
                 const waymarkItem = document.createElement('img');
                 waymarkItem.classList.add('image-overlay');
-                waymarkItem.src = `./assets/icons/${waymark}.png`
-                waymarkItem.style.left = `${mapImageElement.width * x}px`;
-                waymarkItem.style.top = `${mapImageElement.height * y}px`;
+                waymarkItem.src = `./assets/icons/${waymark}.png`;
+                waymarkItem.style.left = '0';
+                waymarkItem.style.top = '0';
+                waymarkItem.dataset.px = px;
+                waymarkItem.dataset.py = py;
                 mapElement.appendChild(waymarkItem);
             }
 
@@ -121,20 +139,43 @@ export function renderWaymarksOnMaps(preset, territoryInfo, mapSheet, parentElem
             });
             mapElement.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
 
-            const xOffset = -(mapImageElement.width * ((waymarksCenter.X - projectionCenterX) * mapScaleFactor + 0.5) - (mapImageElement.width / 2));
-            const yOffset = -(mapImageElement.height * ((waymarksCenter.Z - projectionCenterY) * mapScaleFactor + 0.5) - (mapImageElement.height / 2));
-            setTimeout(() => panzoom.pan(xOffset, yOffset))
+            const xOffset = -(imgW * ((waymarksCenter.X - projectionCenterX) * mapScaleFactor + 0.5) - (imgW / 2));
+            const yOffset = -(imgH * ((waymarksCenter.Z - projectionCenterY) * mapScaleFactor + 0.5) - (imgH / 2));
+            setTimeout(() => panzoom.pan(xOffset, yOffset));
 
-            const textOverlays = mapElement.querySelectorAll('.image-overlay');
-            function updateTextOverlayScale() {
+            const iconOverlays = mapElement.querySelectorAll('.image-overlay');
+            function updateOverlays() {
                 const currentScale = panzoom.getScale();
-                textOverlays.forEach(overlay => {
-                    overlay.style.transform = `scale(${0.4 / currentScale}) translate(-50%, -50%)`;
+                const iconScale = 0.4 / currentScale;
+                iconOverlays.forEach(overlay => {
+                    const px = parseFloat(overlay.dataset.px);
+                    const py = parseFloat(overlay.dataset.py);
+                    const halfW = (overlay.naturalWidth || 0) / 2;
+                    const halfH = (overlay.naturalHeight || 0) / 2;
+                    overlay.style.transform = `translate(${px}px, ${py}px) scale(${iconScale}) translate(${-halfW}px, ${-halfH}px)`;
+                });
+                // Counter-scale by 1/currentScale so the bg element renders at native CSS
+                // pixels regardless of panzoom — keeps the 2px border at a constant integer
+                // CSS pixel value (no sub-pixel rounding bouncing).
+                const counterScale = 1 / currentScale;
+                waymarkBgItems.forEach(el => {
+                    const px = parseFloat(el.dataset.px);
+                    const py = parseFloat(el.dataset.py);
+                    const baseSize = parseFloat(el.dataset.baseSize);
+                    const bgSize = baseSize * currentScale;
+                    const bgHalf = bgSize / 2;
+                    el.style.width = bgSize + 'px';
+                    el.style.height = bgSize + 'px';
+                    el.style.transform = `translate(${px}px, ${py}px) scale(${counterScale}) translate(${-bgHalf}px, ${-bgHalf}px)`;
                 });
             }
 
-            mapElement.addEventListener('panzoomchange', updateTextOverlayScale);
-            updateTextOverlayScale();
+            iconOverlays.forEach(overlay => {
+                overlay.addEventListener('load', updateOverlays);
+            });
+
+            mapElement.addEventListener('panzoomchange', updateOverlays);
+            updateOverlays();
         };
         mapImageElement.src = `./assets/maps/${map.Texture}.png`;
         mapRenderIndex++;
