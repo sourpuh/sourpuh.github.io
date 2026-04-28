@@ -21,18 +21,32 @@ document.addEventListener('DOMContentLoaded', async () => {
         try {
             const { territorySheet, mapSheet, contentTypeSheet, expansionSheet } = await gameDataPromise;
 
-            const territoryInfo = territorySheet[preset.TerritoryId.toString()];
-            if (!territoryInfo) {
-                console.error(`Territory information for ID ${preset.TerritoryId} not found.`);
-                return;
-            }
-
-            const expansion = expansionSheet[territoryInfo.Expansion.toString()];
-            const contenttype = contentTypeSheet[territoryInfo.ContentType.toString()];
-
+            let territoryInfo = territorySheet[preset.TerritoryId.toString()];
             const locationNameElement = document.getElementById('locationName');
-            if (locationNameElement) {
-                locationNameElement.textContent = `${expansion} > ${contenttype} > ${territoryInfo.Name}`;
+            if (territoryInfo && territoryInfo.MapRanges.length > 0) {
+                const expansion = expansionSheet[territoryInfo.Expansion.toString()];
+                const contenttype = contentTypeSheet[territoryInfo.ContentType.toString()];
+                if (locationNameElement) {
+                    locationNameElement.textContent = `${expansion} > ${contenttype} > ${territoryInfo.Name}`;
+                }
+            } else {
+                console.warn(`Territory information for ID ${preset.TerritoryId} not found; using default map.`);
+                territoryInfo = {
+                    Name: `Unknown territory (${preset.TerritoryId})`,
+                    ContentFinderConditionId: 0,
+                    SupportsNativePresets: false,
+                    Expansion: 0,
+                    ContentType: 0,
+                    IsDefault: true,
+                    MapRanges: [{
+                        MapId: 1,
+                        Min: { X: -Number.MAX_VALUE, Y: -Number.MAX_VALUE, Z: -Number.MAX_VALUE },
+                        Max: { X: Number.MAX_VALUE, Y: Number.MAX_VALUE, Z: Number.MAX_VALUE },
+                    }],
+                };
+                if (locationNameElement) {
+                    locationNameElement.textContent = territoryInfo.Name;
+                }
             }
 
             renderWaymarksOnMaps(preset, territoryInfo, mapSheet, 'waymarkMapsContainer');

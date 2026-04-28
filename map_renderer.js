@@ -75,7 +75,14 @@ export function renderWaymarksOnMaps(preset, territoryInfo, mapSheet, parentElem
 
         mapImageElement.onload = function() {
             const effectiveBoundingBoxSize = Math.max(waymarksOnThisMapBB.getLongAxisLength(), 30);
-            const mapScaleFactor = (map.SizeFactor / 100) / mapImageElement.naturalWidth; // World units to normalized texture units
+            const waymarksCenter = waymarksOnThisMapBB.getCenter();
+            const isDefaultMap = territoryInfo.IsDefault;
+            // World units to normalized texture units
+            const mapScaleFactor = isDefaultMap
+                ? 0.5 / effectiveBoundingBoxSize
+                : (map.SizeFactor / 100) / mapImageElement.naturalWidth;
+            const projectionCenterX = isDefaultMap ? waymarksCenter.X : map.Center.X;
+            const projectionCenterY = isDefaultMap ? waymarksCenter.Z : map.Center.Y;
 
             // Append waymarks to the current map element
             for (const waymark of waymarksOnThisMap) {
@@ -84,8 +91,8 @@ export function renderWaymarksOnMaps(preset, territoryInfo, mapSheet, parentElem
                 const extraScale = 10;
                 const scale = extraScale * mapImageElement.width * mapScaleFactor;
 
-                const x = (position3d.X - map.Center.X) * mapScaleFactor + 0.5;
-                const y = (position3d.Z - map.Center.Y) * mapScaleFactor + 0.5;
+                const x = (position3d.X - projectionCenterX) * mapScaleFactor + 0.5;
+                const y = (position3d.Z - projectionCenterY) * mapScaleFactor + 0.5;
 
                 const waymarkBgItem = document.createElement('div');
                 waymarkBgItem.classList.add("waymark", getWaymarkClass(waymark));
@@ -105,16 +112,17 @@ export function renderWaymarksOnMaps(preset, territoryInfo, mapSheet, parentElem
                 mapElement.appendChild(waymarkItem);
             }
 
-            const initialZoom = Math.max(1, Math.min(1000, 0.6 / (effectiveBoundingBoxSize * mapScaleFactor)));
+            const initialZoom = isDefaultMap
+                ? 1
+                : Math.max(1, Math.min(1000, 0.6 / (effectiveBoundingBoxSize * mapScaleFactor)));
             const panzoom = Panzoom(mapElement, {
                 maxScale: 1000,
                 startScale: initialZoom,
             });
             mapElement.parentElement.addEventListener('wheel', panzoom.zoomWithWheel);
 
-            const waymarksCenter = waymarksOnThisMapBB.getCenter();
-            const xOffset = -(mapImageElement.width * ((waymarksCenter.X - map.Center.X) * mapScaleFactor + 0.5) - (mapImageElement.width / 2));
-            const yOffset = -(mapImageElement.height * ((waymarksCenter.Z - map.Center.Y) * mapScaleFactor + 0.5) - (mapImageElement.height / 2));
+            const xOffset = -(mapImageElement.width * ((waymarksCenter.X - projectionCenterX) * mapScaleFactor + 0.5) - (mapImageElement.width / 2));
+            const yOffset = -(mapImageElement.height * ((waymarksCenter.Z - projectionCenterY) * mapScaleFactor + 0.5) - (mapImageElement.height / 2));
             setTimeout(() => panzoom.pan(xOffset, yOffset))
 
             const textOverlays = mapElement.querySelectorAll('.image-overlay');
