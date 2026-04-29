@@ -717,7 +717,7 @@
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 100
+    "SizeFactor": 0
   },
   "80": {
     "Texture": "w1e6_00",
@@ -10026,49 +10026,49 @@
     "SizeFactor": 400
   },
   "1114": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_01",
+    "Name": "A Faraway Place",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": -574,
+      "Y": 666
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1115": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_02",
+    "Name": "Land of Eternal Harvest",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": -714,
+      "Y": -514
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1116": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_03",
+    "Name": "Cove of Countless Colors",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 215,
+      "Y": 700
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1117": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_04",
+    "Name": "Valley of Living Stone",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 72,
+      "Y": -556
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1118": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_05",
+    "Name": "Veil of Mist",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 805,
+      "Y": 670
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1119": {
     "Texture": "y6p1_00",
@@ -10116,13 +10116,13 @@
     "SizeFactor": 400
   },
   "1124": {
-    "Texture": "",
+    "Texture": "m6e1_00",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1125": {
     "Texture": "x6ee_00",
@@ -10449,49 +10449,49 @@
     "SizeFactor": 100
   },
   "1161": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_06",
+    "Name": "A Faraway Place",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": -515,
+      "Y": 870
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1162": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_08",
+    "Name": "A Faraway Place",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": -580,
+      "Y": 750
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1163": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_09",
+    "Name": "Land of Eternal Harvest",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": -760,
+      "Y": -793
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1164": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_10",
+    "Name": "Cove of Countless Colors",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 375,
+      "Y": 562
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1165": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_11",
+    "Name": "Valley of Living Stone",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 170,
+      "Y": -815
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1166": {
     "Texture": "",
@@ -10503,13 +10503,13 @@
     "SizeFactor": 0
   },
   "1167": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "m6d1_07",
+    "Name": "A Faraway Place",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 805,
+      "Y": 546
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1168": {
     "Texture": "x6rc_01",
@@ -10526,6 +10526,888 @@
     "Center": {
       "X": 100,
       "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1170": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1171": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1172": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1173": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1174": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1175": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1176": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1177": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1178": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1179": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1180": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1181": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1182": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1183": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1184": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1185": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1186": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1187": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1188": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1189": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1190": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1191": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1192": {
+    "Texture": "z6r3_01",
+    "Name": "Windurst",
+    "Center": {
+      "X": 0,
+      "Y": -615
+    },
+    "SizeFactor": 200
+  },
+  "1193": {
+    "Texture": "z6r3_02",
+    "Name": "Al Zahbi",
+    "Center": {
+      "X": 700,
+      "Y": 720
+    },
+    "SizeFactor": 200
+  },
+  "1194": {
+    "Texture": "z6r3_03",
+    "Name": "Nyzul Isle",
+    "Center": {
+      "X": 0,
+      "Y": 400
+    },
+    "SizeFactor": 200
+  },
+  "1195": {
+    "Texture": "z6r3_04",
+    "Name": "The Garden of Ru\u0027Hmet",
+    "Center": {
+      "X": -720,
+      "Y": 740
+    },
+    "SizeFactor": 200
+  },
+  "1196": {
+    "Texture": "z6r3_05",
+    "Name": "Empyreal Paradox",
+    "Center": {
+      "X": -820,
+      "Y": -820
+    },
+    "SizeFactor": 200
+  },
+  "1197": {
+    "Texture": "z6r3_06",
+    "Name": "Abyssean Empyreal Paradox",
+    "Center": {
+      "X": 820,
+      "Y": -750
+    },
+    "SizeFactor": 200
+  },
+  "1198": {
+    "Texture": "m6d2_01",
+    "Name": "The Commercium",
+    "Center": {
+      "X": -688,
+      "Y": 677
+    },
+    "SizeFactor": 200
+  },
+  "1199": {
+    "Texture": "m6d2_02",
+    "Name": "Manufactory Vallum",
+    "Center": {
+      "X": 632,
+      "Y": 8
+    },
+    "SizeFactor": 200
+  },
+  "1200": {
+    "Texture": "m6d2_03",
+    "Name": "The Clyteum",
+    "Center": {
+      "X": 639,
+      "Y": -538
+    },
+    "SizeFactor": 200
+  },
+  "1201": {
+    "Texture": "z5fd_01",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1202": {
+    "Texture": "z5fd_02",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 200
+  },
+  "1203": {
+    "Texture": "z6r3_06",
+    "Name": "Abyssean Empyreal Paradox",
+    "Center": {
+      "X": 820,
+      "Y": -750
+    },
+    "SizeFactor": 200
+  },
+  "1204": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1205": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1206": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1207": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1208": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1209": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1210": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1211": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1212": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1213": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1214": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1215": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1216": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1217": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1218": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1219": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1220": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1221": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1222": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1223": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1224": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1225": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1226": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1227": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1228": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1229": {
+    "Texture": "s5p7_00",
+    "Name": "",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 400
+  },
+  "1230": {
+    "Texture": "f1de_01",
+    "Name": "Lower Sepulchres",
+    "Center": {
+      "X": -20,
+      "Y": -10
+    },
+    "SizeFactor": 200
+  },
+  "1231": {
+    "Texture": "z5e4_00",
+    "Name": "",
+    "Center": {
+      "X": 15,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1232": {
+    "Texture": "z5e5_00",
+    "Name": "",
+    "Center": {
+      "X": 30,
+      "Y": 600
+    },
+    "SizeFactor": 400
+  },
+  "1233": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1234": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1235": {
+    "Texture": "f1de_02",
+    "Name": "Shrouded Sanctum",
+    "Center": {
+      "X": 88,
+      "Y": -90
+    },
+    "SizeFactor": 400
+  },
+  "1236": {
+    "Texture": "h2i1_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1237": {
+    "Texture": "h2i1_02",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1238": {
+    "Texture": "h2i2_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1239": {
+    "Texture": "h2i2_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1240": {
+    "Texture": "h2i2_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1241": {
+    "Texture": "h2i3_01",
+    "Name": "Ground Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1242": {
+    "Texture": "h2i3_02",
+    "Name": "Second Floor",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1243": {
+    "Texture": "h2i3_03",
+    "Name": "Cellarage",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 400
+  },
+  "1244": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1245": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1246": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1247": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1248": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1249": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1250": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1251": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1252": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1253": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1254": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1255": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1256": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1257": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1258": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1259": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1260": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1261": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1262": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1263": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1264": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1265": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1266": {
+    "Texture": "",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 0
+  },
+  "1267": {
+    "Texture": "f1ec_00",
+    "Name": "",
+    "Center": {
+      "X": 0,
+      "Y": 0
     },
     "SizeFactor": 400
   }
