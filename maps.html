@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Maps Gallery</title>
+<style>
+  :root { color-scheme: dark; }
+  body {
+    margin: 0;
+    font-family: 'Inter', system-ui, sans-serif;
+    background: #0e0e0e;
+    color: #e2e8f0;
+  }
+  header {
+    padding: 2rem 1.5rem 1rem;
+    text-align: center;
+  }
+  header h1 {
+    margin: 0 0 0.25rem;
+    font-size: 2.25rem;
+    font-weight: 800;
+  }
+  main {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 1.5rem;
+  }
+  section.group {
+    margin-bottom: 2.5rem;
+  }
+  .group-heading {
+    display: flex;
+    align-items: baseline;
+    gap: 0.75rem;
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid #2a2a2a;
+  }
+  .group-name { font-size: 1.25rem; font-weight: 700; }
+  .subgroup { margin-bottom: 1.25rem; }
+  .subgroup:last-child { margin-bottom: 0; }
+  .subgroup-heading {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  .subgroup-name {
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #cbd5e0;
+    font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 1rem;
+  }
+  .card {
+    background: #141414;
+    border: 1px solid #2a2a2a;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    transition: transform 0.15s ease, border-color 0.15s ease;
+  }
+  .card:hover { transform: translateY(-2px); border-color: #FF6E6E; }
+  .thumb {
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    object-fit: contain;
+    background: #0a0a0a;
+    cursor: zoom-in;
+    display: block;
+  }
+  .meta {
+    padding: 0.5rem 0.75rem;
+    border-top: 1px solid #2a2a2a;
+    font-size: 0.8rem;
+    color: #cbd5e0;
+    word-break: break-all;
+  }
+  .lightbox {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.92);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    cursor: zoom-out;
+    z-index: 50;
+  }
+  .lightbox.open { display: flex; }
+  .lightbox img { max-width: 100%; max-height: 100%; object-fit: contain; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Maps Gallery</h1>
+</header>
+<main>
+<section class="group">
+  <div class="group-heading"><span class="group-name">savage/4_stb</span></div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">O8S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/4_stb/o8s_p1.crop.webp" alt="o8s_p1.crop.webp"><div class="meta">o8s_p1.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/4_stb/o8s_p1.fg.webp" alt="o8s_p1.fg.webp"><div class="meta">o8s_p1.fg.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/4_stb/o8s_p1.webp" alt="o8s_p1.webp"><div class="meta">o8s_p1.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/4_stb/o8s_p1_alt.crop.webp" alt="o8s_p1_alt.crop.webp"><div class="meta">o8s_p1_alt.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/4_stb/o8s_p1_alt.fg.webp" alt="o8s_p1_alt.fg.webp"><div class="meta">o8s_p1_alt.fg.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/4_stb/o8s_p1_alt.webp" alt="o8s_p1_alt.webp"><div class="meta">o8s_p1_alt.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/4_stb/o8s_p2.crop.webp" alt="o8s_p2.crop.webp"><div class="meta">o8s_p2.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/4_stb/o8s_p2.fg.webp" alt="o8s_p2.fg.webp"><div class="meta">o8s_p2.fg.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/4_stb/o8s_p2.webp" alt="o8s_p2.webp"><div class="meta">o8s_p2.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/4_stb/o8s_p2_alt.webp" alt="o8s_p2_alt.webp"><div class="meta">o8s_p2_alt.webp</div></div>
+    </div>
+  </div>
+</section>
+<section class="group">
+  <div class="group-heading"><span class="group-name">savage/7_dt</span></div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M1S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m1s.crop.webp" alt="m1s.crop.webp"><div class="meta">m1s.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m1s.webp" alt="m1s.webp"><div class="meta">m1s.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M2S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m2s.crop.webp" alt="m2s.crop.webp"><div class="meta">m2s.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m2s.webp" alt="m2s.webp"><div class="meta">m2s.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M3S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m3s.crop.webp" alt="m3s.crop.webp"><div class="meta">m3s.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m3s.webp" alt="m3s.webp"><div class="meta">m3s.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M4S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m4s_p1.crop.webp" alt="m4s_p1.crop.webp"><div class="meta">m4s_p1.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m4s_p1.webp" alt="m4s_p1.webp"><div class="meta">m4s_p1.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m4s_p2.crop.webp" alt="m4s_p2.crop.webp"><div class="meta">m4s_p2.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m4s_p2.webp" alt="m4s_p2.webp"><div class="meta">m4s_p2.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M5S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m5s.crop.webp" alt="m5s.crop.webp"><div class="meta">m5s.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m5s.webp" alt="m5s.webp"><div class="meta">m5s.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M6S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s.crop.webp" alt="m6s.crop.webp"><div class="meta">m6s.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s.webp" alt="m6s.webp"><div class="meta">m6s.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s_desert.crop.webp" alt="m6s_desert.crop.webp"><div class="meta">m6s_desert.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s_desert.webp" alt="m6s_desert.webp"><div class="meta">m6s_desert.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s_desert_alt.crop.webp" alt="m6s_desert_alt.crop.webp"><div class="meta">m6s_desert_alt.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s_desert_alt.webp" alt="m6s_desert_alt.webp"><div class="meta">m6s_desert_alt.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s_lava.crop.webp" alt="m6s_lava.crop.webp"><div class="meta">m6s_lava.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s_lava.webp" alt="m6s_lava.webp"><div class="meta">m6s_lava.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s_river.crop.webp" alt="m6s_river.crop.webp"><div class="meta">m6s_river.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s_river.webp" alt="m6s_river.webp"><div class="meta">m6s_river.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s_storm.crop.webp" alt="m6s_storm.crop.webp"><div class="meta">m6s_storm.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m6s_storm.webp" alt="m6s_storm.webp"><div class="meta">m6s_storm.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M7S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m7s_p1.crop.webp" alt="m7s_p1.crop.webp"><div class="meta">m7s_p1.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m7s_p1.webp" alt="m7s_p1.webp"><div class="meta">m7s_p1.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m7s_p2.crop.webp" alt="m7s_p2.crop.webp"><div class="meta">m7s_p2.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m7s_p2.webp" alt="m7s_p2.webp"><div class="meta">m7s_p2.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m7s_p3.crop.webp" alt="m7s_p3.crop.webp"><div class="meta">m7s_p3.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m7s_p3.webp" alt="m7s_p3.webp"><div class="meta">m7s_p3.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M8S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m8s_p1.crop.webp" alt="m8s_p1.crop.webp"><div class="meta">m8s_p1.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m8s_p1.webp" alt="m8s_p1.webp"><div class="meta">m8s_p1.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m8s_p2.crop.webp" alt="m8s_p2.crop.webp"><div class="meta">m8s_p2.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m8s_p2.webp" alt="m8s_p2.webp"><div class="meta">m8s_p2.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M9S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m9s.crop.webp" alt="m9s.crop.webp"><div class="meta">m9s.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m9s.webp" alt="m9s.webp"><div class="meta">m9s.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M10S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m10s.crop.webp" alt="m10s.crop.webp"><div class="meta">m10s.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m10s.webp" alt="m10s.webp"><div class="meta">m10s.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M11S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m11s.crop.webp" alt="m11s.crop.webp"><div class="meta">m11s.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m11s.webp" alt="m11s.webp"><div class="meta">m11s.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m11s_alt.crop.webp" alt="m11s_alt.crop.webp"><div class="meta">m11s_alt.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m11s_alt.webp" alt="m11s_alt.webp"><div class="meta">m11s_alt.webp</div></div>
+    </div>
+  </div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">M12S</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m12s_p1.crop.webp" alt="m12s_p1.crop.webp"><div class="meta">m12s_p1.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m12s_p1.webp" alt="m12s_p1.webp"><div class="meta">m12s_p1.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m12s_p2.crop.webp" alt="m12s_p2.crop.webp"><div class="meta">m12s_p2.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m12s_p2.webp" alt="m12s_p2.webp"><div class="meta">m12s_p2.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m12s_p2_alt.crop.webp" alt="m12s_p2_alt.crop.webp"><div class="meta">m12s_p2_alt.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/savage/7_dt/m12s_p2_alt.webp" alt="m12s_p2_alt.webp"><div class="meta">m12s_p2_alt.webp</div></div>
+    </div>
+  </div>
+</section>
+<section class="group">
+  <div class="group-heading"><span class="group-name">v_c/7_dt</span></div>
+  <div class="subgroup">
+    <div class="subgroup-heading"><span class="subgroup-name">AMT</span></div>
+    <div class="grid">
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/v_c/7_dt/amt_b1.crop.webp" alt="amt_b1.crop.webp"><div class="meta">amt_b1.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/v_c/7_dt/amt_b1.webp" alt="amt_b1.webp"><div class="meta">amt_b1.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/v_c/7_dt/amt_b2.crop.webp" alt="amt_b2.crop.webp"><div class="meta">amt_b2.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/v_c/7_dt/amt_b2.webp" alt="amt_b2.webp"><div class="meta">amt_b2.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/v_c/7_dt/amt_b3.crop.webp" alt="amt_b3.crop.webp"><div class="meta">amt_b3.crop.webp</div></div>
+      <div class="card"><img class="thumb" loading="lazy" src="./assets/maps/v_c/7_dt/amt_b3.webp" alt="amt_b3.webp"><div class="meta">amt_b3.webp</div></div>
+    </div>
+  </div>
+</section>
+</main>
+<div class="lightbox" id="lightbox" role="dialog" aria-modal="true"><img id="lightboxImg" alt=""></div>
+<script>
+  const lb = document.getElementById('lightbox');
+  const lbImg = document.getElementById('lightboxImg');
+  document.querySelectorAll('img.thumb').forEach(el => {
+    el.addEventListener('click', () => {
+      lbImg.src = el.src;
+      lbImg.alt = el.alt;
+      lb.classList.add('open');
+    });
+  });
+  lb.addEventListener('click', () => { lb.classList.remove('open'); lbImg.src = ''; });
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape' && lb.classList.contains('open')) {
+      lb.classList.remove('open'); lbImg.src = '';
+    }
+  });
+</script>
+</body>
+</html>
