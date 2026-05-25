@@ -108,6 +108,36 @@
             position: absolute;
             transform-origin: 0 0;
         }
+        .map-item {
+            display: flex;
+            flex-direction: column;
+        }
+        .map-tabs {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2px;
+            margin-bottom: 6px;
+        }
+        .map-tab {
+            padding: 4px 10px;
+            font-size: 0.8rem;
+            font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+            background: #1a1a1a;
+            color: #a0aec0;
+            border: 1px solid #2a2a2a;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background 0.1s ease, color 0.1s ease, border-color 0.1s ease;
+        }
+        .map-tab:hover {
+            background: #242424;
+            color: #e2e8f0;
+        }
+        .map-tab.active {
+            background: #2a2a2a;
+            color: #F3FB9C;
+            border-color: #F3FB9C;
+        }
     </style>
 </head>
 <body class="antialiased transition-colors duration-300">

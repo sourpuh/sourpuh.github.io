@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
 
         try {
-            const { territorySheet, mapSheet, contentTypeSheet, expansionSheet } = await gameDataPromise;
+            const { territorySheet, mapSheet, contentTypeSheet, expansionSheet, customMapSheet } = await gameDataPromise;
 
             let territoryInfo = territorySheet[preset.TerritoryId.toString()];
             const locationNameElement = document.getElementById('locationName');
@@ -49,7 +49,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 }
             }
 
-            renderWaymarksOnMaps(preset, territoryInfo, mapSheet, 'waymarkMapsContainer');
+            renderWaymarksOnMaps(preset, territoryInfo, mapSheet, 'waymarkMapsContainer', customMapSheet);
 
             if (territoryInfo.SupportsNativePresets && territoryInfo.ContentFinderConditionId > 0) {
                 const wppContainer = document.getElementById('wppExportContainer');

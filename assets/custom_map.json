@@ -1,0 +1,653 @@
+{
+  "savage/4_stb/o8s_p1": {
+    "Texture": "savage/4_stb/o8s_p1",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -20.0,
+        "Y": -20.0,
+        "Z": -20.0
+      },
+      "Max": {
+        "X": 20.0,
+        "Y": 20.0,
+        "Z": 20.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oa/level/z3oa"
+  },
+  "savage/4_stb/o8s_p1_alt": {
+    "Texture": "savage/4_stb/o8s_p1_alt",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -20.0,
+        "Y": -20.0,
+        "Z": -20.0
+      },
+      "Max": {
+        "X": 20.0,
+        "Y": 20.0,
+        "Z": 20.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oa/level/z3oa"
+  },
+  "savage/4_stb/o8s_p2": {
+    "Texture": "savage/4_stb/o8s_p2",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -20.0,
+        "Y": -20.0,
+        "Z": -20.0
+      },
+      "Max": {
+        "X": 20.0,
+        "Y": 20.0,
+        "Z": 20.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oa/level/z3oa"
+  },
+  "savage/4_stb/o8s_p2_alt": {
+    "Texture": "savage/4_stb/o8s_p2_alt",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -20.0,
+        "Y": -20.0,
+        "Z": -20.0
+      },
+      "Max": {
+        "X": 20.0,
+        "Y": 20.0,
+        "Z": 20.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oa/level/z3oa"
+  },
+  "savage/7_dt/m10s": {
+    "Texture": "savage/7_dt/m10s",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6ra/level/x6ra"
+  },
+  "savage/7_dt/m11s": {
+    "Texture": "savage/7_dt/m11s",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6rb/level/x6rb"
+  },
+  "savage/7_dt/m11s_alt": {
+    "Texture": "savage/7_dt/m11s_alt",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 74.0,
+        "Y": -26.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 126.0,
+        "Y": 26.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6rb/level/x6rb"
+  },
+  "savage/7_dt/m12s_p1": {
+    "Texture": "savage/7_dt/m12s_p1",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 85.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 115.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6rc/level/x6rc"
+  },
+  "savage/7_dt/m12s_p2": {
+    "Texture": "savage/7_dt/m12s_p2",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 76.0,
+        "Y": -24.0,
+        "Z": 76.0
+      },
+      "Max": {
+        "X": 124.0,
+        "Y": 24.0,
+        "Z": 124.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6rc/level/x6rc"
+  },
+  "savage/7_dt/m12s_p2_alt": {
+    "Texture": "savage/7_dt/m12s_p2_alt",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 76.0,
+        "Y": -24.0,
+        "Z": 76.0
+      },
+      "Max": {
+        "X": 124.0,
+        "Y": 24.0,
+        "Z": 124.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6rc/level/x6rc"
+  },
+  "savage/7_dt/m1s": {
+    "Texture": "savage/7_dt/m1s",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r1/level/x6r1"
+  },
+  "savage/7_dt/m2s": {
+    "Texture": "savage/7_dt/m2s",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 75.0,
+        "Y": -25.0,
+        "Z": 75.0
+      },
+      "Max": {
+        "X": 125.0,
+        "Y": 25.0,
+        "Z": 125.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r2/level/x6r2"
+  },
+  "savage/7_dt/m3s": {
+    "Texture": "savage/7_dt/m3s",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 85.0,
+        "Y": -15.0,
+        "Z": 85.0
+      },
+      "Max": {
+        "X": 115.0,
+        "Y": 15.0,
+        "Z": 115.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r3/level/x6r3"
+  },
+  "savage/7_dt/m4s_p1": {
+    "Texture": "savage/7_dt/m4s_p1",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -19.9990005493,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0009994507,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r4/level/x6r4"
+  },
+  "savage/7_dt/m4s_p2": {
+    "Texture": "savage/7_dt/m4s_p2",
+    "Center": {
+      "X": 100,
+      "Y": 165
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 150.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 180.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r4/level/x6r4"
+  },
+  "savage/7_dt/m5s": {
+    "Texture": "savage/7_dt/m5s",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r5/level/x6r5"
+  },
+  "savage/7_dt/m6s": {
+    "Texture": "savage/7_dt/m6s",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r6/level/x6r6"
+  },
+  "savage/7_dt/m6s_desert": {
+    "Texture": "savage/7_dt/m6s_desert",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r6/level/x6r6"
+  },
+  "savage/7_dt/m6s_desert_alt": {
+    "Texture": "savage/7_dt/m6s_desert_alt",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r6/level/x6r6"
+  },
+  "savage/7_dt/m6s_lava": {
+    "Texture": "savage/7_dt/m6s_lava",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r6/level/x6r6"
+  },
+  "savage/7_dt/m6s_river": {
+    "Texture": "savage/7_dt/m6s_river",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r6/level/x6r6"
+  },
+  "savage/7_dt/m6s_storm": {
+    "Texture": "savage/7_dt/m6s_storm",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r6/level/x6r6"
+  },
+  "savage/7_dt/m7s_p1": {
+    "Texture": "savage/7_dt/m7s_p1",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r7/level/x6r7"
+  },
+  "savage/7_dt/m7s_p2": {
+    "Texture": "savage/7_dt/m7s_p2",
+    "Center": {
+      "X": 100,
+      "Y": 5
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 87.5,
+        "Y": -12.5,
+        "Z": -20.0
+      },
+      "Max": {
+        "X": 112.5,
+        "Y": 12.5,
+        "Z": 30.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r7/level/x6r7"
+  },
+  "savage/7_dt/m7s_p3": {
+    "Texture": "savage/7_dt/m7s_p3",
+    "Center": {
+      "X": 100,
+      "Y": 5
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -220.0,
+        "Z": -15.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": -180.0,
+        "Z": 25.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r7/level/x6r7"
+  },
+  "savage/7_dt/m8s_p1": {
+    "Texture": "savage/7_dt/m8s_p1",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 85.0,
+        "Y": -15.0,
+        "Z": 85.0
+      },
+      "Max": {
+        "X": 115.0,
+        "Y": 15.0,
+        "Z": 115.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r8/level/x6r8"
+  },
+  "savage/7_dt/m8s_p2": {
+    "Texture": "savage/7_dt/m8s_p2",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 74.5,
+        "Y": -175.5,
+        "Z": 74.5
+      },
+      "Max": {
+        "X": 125.5,
+        "Y": -124.5,
+        "Z": 125.5
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r8/level/x6r8"
+  },
+  "savage/7_dt/m9s": {
+    "Texture": "savage/7_dt/m9s",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex5/01_xkt_x6/rad/x6r9/level/x6r9"
+  },
+  "v_c/7_dt/amt_b1": {
+    "Texture": "v_c/7_dt/amt_b1",
+    "Center": {
+      "X": 375,
+      "Y": 530
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 355.0,
+        "Y": -49.5,
+        "Z": 510.0
+      },
+      "Max": {
+        "X": 395.0,
+        "Y": -9.5,
+        "Z": 550.0
+      }
+    },
+    "Bg": "ex5/07_mid_m6/dun/m6d1/level/m6d1"
+  },
+  "v_c/7_dt/amt_b2": {
+    "Texture": "v_c/7_dt/amt_b2",
+    "Center": {
+      "X": 170,
+      "Y": -815
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 150.0,
+        "Y": -36.0,
+        "Z": -835.0
+      },
+      "Max": {
+        "X": 190.0,
+        "Y": 4.0,
+        "Z": -795.0
+      }
+    },
+    "Bg": "ex5/07_mid_m6/dun/m6d1/level/m6d1"
+  },
+  "v_c/7_dt/amt_b3": {
+    "Texture": "v_c/7_dt/amt_b3",
+    "Center": {
+      "X": -760,
+      "Y": -805
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -780.0,
+        "Y": -74.0,
+        "Z": -825.0
+      },
+      "Max": {
+        "X": -740.0,
+        "Y": -34.0,
+        "Z": -785.0
+      }
+    },
+    "Bg": "ex5/07_mid_m6/dun/m6d1/level/m6d1"
+  }
+}
