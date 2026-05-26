@@ -1,4 +1,46 @@
 {
+  "savage/4_stb/o12s_p1": {
+    "Texture": "savage/4_stb/o12s_p1",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3of/level/z3of"
+  },
+  "savage/4_stb/o12s_p2": {
+    "Texture": "savage/4_stb/o12s_p2",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3of/level/z3of"
+  },
   "savage/4_stb/o8s_p1": {
     "Texture": "savage/4_stb/o8s_p1",
     "Center": {
@@ -82,6 +124,48 @@
       }
     },
     "Bg": "ex2/05_zon_z3/ome/z3oa/level/z3oa"
+  },
+  "savage/5_shb/e11s": {
+    "Texture": "savage/5_shb/e11s",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex3/01_nvt_n4/goe/n4gb/level/n4gb"
+  },
+  "savage/5_shb/e8s": {
+    "Texture": "savage/5_shb/e8s",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex3/01_nvt_n4/goe/n4g8/level/n4g8"
   },
   "savage/7_dt/m10s": {
     "Texture": "savage/7_dt/m10s",
@@ -586,6 +670,342 @@
       }
     },
     "Bg": "ex5/01_xkt_x6/rad/x6r9/level/x6r9"
+  },
+  "ultimate/6_ew/top_p1": {
+    "Texture": "ultimate/6_ew/top_p1",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 77.0,
+        "Y": -23.0,
+        "Z": 77.0
+      },
+      "Max": {
+        "X": 123.0,
+        "Y": 23.0,
+        "Z": 123.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oz/level/z3oz"
+  },
+  "ultimate/6_ew/top_p2": {
+    "Texture": "ultimate/6_ew/top_p2",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 77.0,
+        "Y": -23.0,
+        "Z": 77.0
+      },
+      "Max": {
+        "X": 123.0,
+        "Y": 23.0,
+        "Z": 123.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oz/level/z3oz"
+  },
+  "ultimate/6_ew/top_p3": {
+    "Texture": "ultimate/6_ew/top_p3",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 77.0,
+        "Y": -23.0,
+        "Z": 77.0
+      },
+      "Max": {
+        "X": 123.0,
+        "Y": 23.0,
+        "Z": 123.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oz/level/z3oz"
+  },
+  "ultimate/6_ew/top_p6": {
+    "Texture": "ultimate/6_ew/top_p6",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 77.0,
+        "Y": -23.0,
+        "Z": 77.0
+      },
+      "Max": {
+        "X": 123.0,
+        "Y": 23.0,
+        "Z": 123.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oz/level/z3oz"
+  },
+  "ultimate/7_dt/fru": {
+    "Texture": "ultimate/7_dt/fru",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 77.0,
+        "Y": -23.0,
+        "Z": 77.0
+      },
+      "Max": {
+        "X": 123.0,
+        "Y": 23.0,
+        "Z": 123.0
+      }
+    },
+    "Bg": "ex3/01_nvt_n4/goe/n4gw/level/n4gw"
+  },
+  "v_c/6_ew/aai_b1": {
+    "Texture": "v_c/6_ew/aai_b1",
+    "Center": {
+      "X": 0,
+      "Y": 0
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -20.0,
+        "Y": -20.0,
+        "Z": -20.0
+      },
+      "Max": {
+        "X": 20.0,
+        "Y": 20.0,
+        "Z": 20.0
+      }
+    },
+    "Bg": "ex4/09_ocn_o5/dun/o5d2/level/o5d2"
+  },
+  "v_c/6_ew/aai_b2": {
+    "Texture": "v_c/6_ew/aai_b2",
+    "Center": {
+      "X": 200,
+      "Y": 0
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 180.0,
+        "Y": -320.0,
+        "Z": -20.0
+      },
+      "Max": {
+        "X": 220.0,
+        "Y": -280.0,
+        "Z": 20.0
+      }
+    },
+    "Bg": "ex4/09_ocn_o5/dun/o5d2/level/o5d2"
+  },
+  "v_c/6_ew/aai_b3": {
+    "Texture": "v_c/6_ew/aai_b3",
+    "Center": {
+      "X": -200,
+      "Y": 0
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -220.0,
+        "Y": -220.0,
+        "Z": -20.0
+      },
+      "Max": {
+        "X": -180.0,
+        "Y": -180.0,
+        "Z": 20.0
+      }
+    },
+    "Bg": "ex4/09_ocn_o5/dun/o5d2/level/o5d2"
+  },
+  "v_c/6_ew/aai_b3_alt": {
+    "Texture": "v_c/6_ew/aai_b3_alt",
+    "Center": {
+      "X": -200,
+      "Y": 0
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -220.0,
+        "Y": -220.0,
+        "Z": -20.0
+      },
+      "Max": {
+        "X": -180.0,
+        "Y": -180.0,
+        "Z": 20.0
+      }
+    },
+    "Bg": "ex4/09_ocn_o5/dun/o5d2/level/o5d2"
+  },
+  "v_c/6_ew/amr_b1": {
+    "Texture": "v_c/6_ew/amr_b1",
+    "Center": {
+      "X": 0,
+      "Y": -100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -20.0,
+        "Y": -20.0,
+        "Z": -120.0
+      },
+      "Max": {
+        "X": 20.0,
+        "Y": 20.0,
+        "Z": -80.0
+      }
+    },
+    "Bg": "ex4/08_est_e5/dun/e5d2/level/e5d2"
+  },
+  "v_c/6_ew/amr_b1_alt": {
+    "Texture": "v_c/6_ew/amr_b1_alt",
+    "Center": {
+      "X": 0,
+      "Y": -100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -20.0,
+        "Y": -20.0,
+        "Z": -120.0
+      },
+      "Max": {
+        "X": 20.0,
+        "Y": 20.0,
+        "Z": -80.0
+      }
+    },
+    "Bg": "ex4/08_est_e5/dun/e5d2/level/e5d2"
+  },
+  "v_c/6_ew/amr_b2": {
+    "Texture": "v_c/6_ew/amr_b2",
+    "Center": {
+      "X": 300,
+      "Y": -120
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 280.0,
+        "Y": -13.0,
+        "Z": -140.0
+      },
+      "Max": {
+        "X": 320.0,
+        "Y": 27.0,
+        "Z": -100.0
+      }
+    },
+    "Bg": "ex4/08_est_e5/dun/e5d2/level/e5d2"
+  },
+  "v_c/6_ew/amr_b3": {
+    "Texture": "v_c/6_ew/amr_b3",
+    "Center": {
+      "X": -200,
+      "Y": 0
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -220.0,
+        "Y": -215.0,
+        "Z": -20.0
+      },
+      "Max": {
+        "X": -180.0,
+        "Y": -175.0,
+        "Z": 20.0
+      }
+    },
+    "Bg": "ex4/08_est_e5/dun/e5d2/level/e5d2"
+  },
+  "v_c/6_ew/ass_b1": {
+    "Texture": "v_c/6_ew/ass_b1",
+    "Center": {
+      "X": -335,
+      "Y": -155
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -355.0,
+        "Y": 451.0,
+        "Z": -175.0
+      },
+      "Max": {
+        "X": -315.0,
+        "Y": 491.0,
+        "Z": -135.0
+      }
+    },
+    "Bg": "ex4/06_wil_w5/dun/w5d2/level/w5d2"
+  },
+  "v_c/6_ew/ass_b2": {
+    "Texture": "v_c/6_ew/ass_b2",
+    "Center": {
+      "X": -35,
+      "Y": -271
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -55.0,
+        "Y": 501.004,
+        "Z": -291.0
+      },
+      "Max": {
+        "X": -15.0,
+        "Y": 541.004,
+        "Z": -251.0
+      }
+    },
+    "Bg": "ex4/06_wil_w5/dun/w5d2/level/w5d2"
+  },
+  "v_c/6_ew/ass_b3": {
+    "Texture": "v_c/6_ew/ass_b3",
+    "Center": {
+      "X": 289,
+      "Y": -105
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 274.0,
+        "Y": 518.0,
+        "Z": -125.0
+      },
+      "Max": {
+        "X": 304.0,
+        "Y": 548.0,
+        "Z": -85.0
+      }
+    },
+    "Bg": "ex4/06_wil_w5/dun/w5d2/level/w5d2"
   },
   "v_c/7_dt/amt_b1": {
     "Texture": "v_c/7_dt/amt_b1",
