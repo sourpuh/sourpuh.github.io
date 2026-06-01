@@ -201,11 +201,18 @@ export function renderWaymarksOnMaps(preset, territoryInfo, mapSheet, parentElem
             activeWrapper = wrapper;
 
             mapImageElement.onload = function() {
+                const naturalW = mapImageElement.naturalWidth;
+                const naturalH = mapImageElement.naturalHeight;
+
+                // Width = viewport; height follows aspect. panzoom handles overflow.
+                const viewportSize = viewport.clientWidth;
+                const aspectImg = naturalW / naturalH;
+                mapImageElement.style.width = viewportSize + 'px';
+                mapImageElement.style.height = (viewportSize / aspectImg) + 'px';
+
                 const imgRect = mapImageElement.getBoundingClientRect();
                 const imgW = imgRect.width;
                 const imgH = imgRect.height;
-                const naturalW = mapImageElement.naturalWidth;
-                const naturalH = mapImageElement.naturalHeight;
 
                 // For options that carry a 3D bounds AABB, keep only waymarks inside that volume.
                 const visibleWaymarks = new Set();
@@ -224,10 +231,7 @@ export function renderWaymarksOnMaps(preset, territoryInfo, mapSheet, parentElem
                 const waymarksCenter = hasVisible
                     ? visibleBB.getCenter()
                     : { X: option.centerX, Y: 0, Z: option.centerY };
-                // ppy is uniform but the per-axis world-to-normalized-image scale
-                // depends on natural pixel dimensions, which differ for non-square
-                // images. Compute them separately so portrait/landscape textures
-                // project correctly.
+                // Per-axis scales for non-square textures.
                 const mapScaleX = isDefaultMap
                     ? 0.5 / effectiveBoundingBoxSize
                     : (option.sizeFactor / 100) / naturalW;
@@ -246,8 +250,6 @@ export function renderWaymarksOnMaps(preset, territoryInfo, mapSheet, parentElem
                     const y = (position3d.Z - projectionCenterY) * mapScaleY + 0.5;
                     const px = imgW * x;
                     const py = imgH * y;
-                    // Displayed pixels-per-yalm is uniform under proportional
-                    // display, so either axis works for sizing — pick X.
                     const baseSize = getWaymarkSize(waymark) * imgW * mapScaleX;
 
                     const waymarkBgItem = document.createElement('div');
@@ -273,12 +275,10 @@ export function renderWaymarksOnMaps(preset, territoryInfo, mapSheet, parentElem
                     mapElement.appendChild(waymarkItem);
                 }
 
-                // Use the larger per-axis scale so the BB fits in *both*
-                // dimensions of the viewport (the larger scale produces the
-                // smaller zoom factor, which is the constraining axis).
+                // BB targets 60% of viewport so positions match across tabs.
                 const initialZoom = isDefaultMap
                     ? 1
-                    : Math.max(1, Math.min(1000, 0.6 / (effectiveBoundingBoxSize * Math.max(mapScaleX, mapScaleY))));
+                    : Math.min(1000, 0.6 / (effectiveBoundingBoxSize * mapScaleX));
                 const panzoom = Panzoom(mapElement, {
                     maxScale: 1000,
                     startScale: initialZoom,
