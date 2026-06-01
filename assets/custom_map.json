@@ -1,4 +1,109 @@
 {
+  "field_op/7_dt/ftb_b1": {
+    "Texture": "field_op/7_dt/ftb_b1",
+    "Center": {
+      "X": 700,
+      "Y": 379
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 685.0,
+        "Y": -496.0,
+        "Z": 346.0
+      },
+      "Max": {
+        "X": 715.0,
+        "Y": -466.0,
+        "Z": 412.0
+      }
+    },
+    "Bg": "ex5/03_ocn_o6/btl/o6b1/level/o6b1"
+  },
+  "field_op/7_dt/ftb_b2": {
+    "Texture": "field_op/7_dt/ftb_b2",
+    "Center": {
+      "X": -800,
+      "Y": 360
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -830.0,
+        "Y": -906.0,
+        "Z": 330.0
+      },
+      "Max": {
+        "X": -770.0,
+        "Y": -846.0,
+        "Z": 390.0
+      }
+    },
+    "Bg": "ex5/03_ocn_o6/btl/o6b1/level/o6b1"
+  },
+  "field_op/7_dt/ftb_b3": {
+    "Texture": "field_op/7_dt/ftb_b3",
+    "Center": {
+      "X": -337,
+      "Y": 157
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -367.0,
+        "Y": -870.0,
+        "Z": 127.0
+      },
+      "Max": {
+        "X": -307.0,
+        "Y": -810.0,
+        "Z": 187.0
+      }
+    },
+    "Bg": "ex5/03_ocn_o6/btl/o6b1/level/o6b1"
+  },
+  "field_op/7_dt/ftb_b4": {
+    "Texture": "field_op/7_dt/ftb_b4",
+    "Center": {
+      "X": 700,
+      "Y": -674
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 668.0,
+        "Y": -508.0,
+        "Z": -706.0
+      },
+      "Max": {
+        "X": 732.0,
+        "Y": -444.0,
+        "Z": -642.0
+      }
+    },
+    "Bg": "ex5/03_ocn_o6/btl/o6b1/level/o6b1"
+  },
+  "field_op/7_dt/ftb_bridge": {
+    "Texture": "field_op/7_dt/ftb_bridge",
+    "Center": {
+      "X": -524,
+      "Y": 315
+    },
+    "SizeFactor": 4000,
+    "Bounds": {
+      "Min": {
+        "X": -664.0,
+        "Y": -992.0,
+        "Z": 270.0
+      },
+      "Max": {
+        "X": -384.0,
+        "Y": -712.0,
+        "Z": 360.0
+      }
+    },
+    "Bg": "ex5/03_ocn_o6/btl/o6b1/level/o6b1"
+  },
   "savage/4_stb/o12s_p1": {
     "Texture": "savage/4_stb/o12s_p1",
     "Center": {
