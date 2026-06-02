@@ -860,6 +860,69 @@
     },
     "Bg": "ex2/05_zon_z3/ome/z3oz/level/z3oz"
   },
+  "ultimate/7_dt/dmu_p1": {
+    "Texture": "ultimate/7_dt/dmu_p1",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oy/level/z3oy"
+  },
+  "ultimate/7_dt/dmu_p2": {
+    "Texture": "ultimate/7_dt/dmu_p2",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oy/level/z3oy"
+  },
+  "ultimate/7_dt/dmu_p2_alt": {
+    "Texture": "ultimate/7_dt/dmu_p2_alt",
+    "Center": {
+      "X": 100,
+      "Y": 100
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 80.0,
+        "Y": -20.0,
+        "Z": 80.0
+      },
+      "Max": {
+        "X": 120.0,
+        "Y": 20.0,
+        "Z": 120.0
+      }
+    },
+    "Bg": "ex2/05_zon_z3/ome/z3oy/level/z3oy"
+  },
   "ultimate/7_dt/fru": {
     "Texture": "ultimate/7_dt/fru",
     "Center": {
