@@ -113334,12 +113334,26 @@
     "MapRanges": []
   },
   "1319": {
-    "Name": "",
+    "Name": "Auxesia",
     "ContentFinderConditionId": 0,
     "SupportsNativePresets": false,
-    "Expansion": 0,
+    "Expansion": 4,
     "ContentType": 0,
-    "MapRanges": []
+    "MapRanges": [
+      {
+        "MapId": 1246,
+        "Min": {
+          "X": -1000,
+          "Y": -50,
+          "Z": -1000
+        },
+        "Max": {
+          "X": 1000,
+          "Y": 550,
+          "Z": 1000
+        }
+      }
+    ]
   },
   "1320": {
     "Name": "AAC Heavyweight M1",
@@ -114668,12 +114682,26 @@
     ]
   },
   "1363": {
-    "Name": "",
-    "ContentFinderConditionId": 0,
-    "SupportsNativePresets": false,
-    "Expansion": 0,
-    "ContentType": 0,
-    "MapRanges": []
+    "Name": "Dancing Mad (Ultimate)",
+    "ContentFinderConditionId": 1094,
+    "SupportsNativePresets": true,
+    "Expansion": 5,
+    "ContentType": 28,
+    "MapRanges": [
+      {
+        "MapId": 79,
+        "Min": {
+          "X": 72,
+          "Y": -90,
+          "Z": 72
+        },
+        "Max": {
+          "X": 128,
+          "Y": 10,
+          "Z": 128
+        }
+      }
+    ]
   },
   "1364": {
     "Name": "",

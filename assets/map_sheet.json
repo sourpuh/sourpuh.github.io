@@ -711,13 +711,13 @@
     "SizeFactor": 400
   },
   "79": {
-    "Texture": "",
+    "Texture": "z3oy_00",
     "Name": "",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 100,
+      "Y": 100
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "80": {
     "Texture": "w1e6_00",
@@ -11205,202 +11205,202 @@
     "SizeFactor": 0
   },
   "1245": {
-    "Texture": "",
+    "Texture": "c1w4_01",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1246": {
-    "Texture": "",
+    "Texture": "c1w4_02",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1247": {
-    "Texture": "",
+    "Texture": "c1w4_03",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1248": {
-    "Texture": "",
+    "Texture": "c1w4_04",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1249": {
-    "Texture": "",
+    "Texture": "c1w4_05",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1250": {
-    "Texture": "",
+    "Texture": "c1w4_06",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1251": {
-    "Texture": "",
+    "Texture": "c1w4_07",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1252": {
-    "Texture": "",
+    "Texture": "c1w4_08",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1253": {
-    "Texture": "",
+    "Texture": "c1w4_09",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1254": {
-    "Texture": "",
+    "Texture": "c1w4_10",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1255": {
-    "Texture": "",
+    "Texture": "c1w4_11",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1256": {
-    "Texture": "",
+    "Texture": "c1w4_12",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1257": {
-    "Texture": "",
+    "Texture": "c1w4_13",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1258": {
-    "Texture": "",
+    "Texture": "c1w4_14",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1259": {
-    "Texture": "",
+    "Texture": "c1w4_15",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1260": {
-    "Texture": "",
+    "Texture": "c1w4_16",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1261": {
-    "Texture": "",
+    "Texture": "c1w4_17",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1262": {
-    "Texture": "",
+    "Texture": "c1w4_18",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1263": {
-    "Texture": "",
+    "Texture": "c1w4_19",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1264": {
-    "Texture": "",
+    "Texture": "c1w4_20",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1265": {
-    "Texture": "",
+    "Texture": "c1w4_21",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1266": {
-    "Texture": "",
+    "Texture": "c1w4_22",
     "Name": "",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1267": {
     "Texture": "f1ec_00",
