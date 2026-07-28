@@ -10215,22 +10215,22 @@
     "SizeFactor": 400
   },
   "1135": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_01",
+    "Name": "North Basin",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1136": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_02",
+    "Name": "Tower Base",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": -900,
+      "Y": 760
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1137": {
     "Texture": "x6ef_00",
@@ -10494,13 +10494,13 @@
     "SizeFactor": 200
   },
   "1166": {
-    "Texture": "",
+    "Texture": "x6ec_00",
     "Name": "",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 100,
+      "Y": 100
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1167": {
     "Texture": "m6d1_07",
@@ -10602,130 +10602,130 @@
     "SizeFactor": 0
   },
   "1178": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_03",
+    "Name": "Lower Vestibule",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 600,
+      "Y": 951
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1179": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_04",
+    "Name": "Lower West Passage",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 457,
+      "Y": 769
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1180": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_05",
+    "Name": "Lower East Passage",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 742,
+      "Y": 769
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1181": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_06",
+    "Name": "Lower Central Passage",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 600,
+      "Y": 704
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1182": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_07",
+    "Name": "Central Mezzanine",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 600,
+      "Y": 124
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1183": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_08",
+    "Name": "Veil of Ignorance",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 600,
+      "Y": -25
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1184": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_09",
+    "Name": "Secret Nook",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 423,
+      "Y": -700
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1185": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_10",
+    "Name": "Central Hall",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 100,
+      "Y": 800
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1186": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_11",
+    "Name": "Upper Passage",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 100,
+      "Y": 600
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1187": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_12",
+    "Name": "Upper Veil",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 100,
+      "Y": 420
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1188": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_13",
+    "Name": "Transcendence",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 100,
+      "Y": 350
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1189": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_14",
+    "Name": "Pinnacle of Knowledge",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 18,
+      "Y": -406
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1190": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_15",
+    "Name": "Pinnacle of Knowledge",
     "Center": {
       "X": 0,
-      "Y": 0
+      "Y": -628
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1191": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_16",
+    "Name": "Concealed Collection",
     "Center": {
-      "X": 0,
-      "Y": 0
+      "X": 800,
+      "Y": -700
     },
-    "SizeFactor": 0
+    "SizeFactor": 200
   },
   "1192": {
     "Texture": "z6r3_01",
@@ -11097,13 +11097,13 @@
     "SizeFactor": 400
   },
   "1233": {
-    "Texture": "",
+    "Texture": "w1eo_00",
     "Name": "",
     "Center": {
       "X": 0,
-      "Y": 0
+      "Y": -27
     },
-    "SizeFactor": 0
+    "SizeFactor": 400
   },
   "1234": {
     "Texture": "",
@@ -11196,13 +11196,13 @@
     "SizeFactor": 400
   },
   "1244": {
-    "Texture": "",
-    "Name": "",
+    "Texture": "o6b2_17",
+    "Name": "Subterrane",
     "Center": {
       "X": 0,
       "Y": 0
     },
-    "SizeFactor": 0
+    "SizeFactor": 100
   },
   "1245": {
     "Texture": "c1w4_01",
