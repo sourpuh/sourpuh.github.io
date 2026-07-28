@@ -104,6 +104,69 @@
     },
     "Bg": "ex5/03_ocn_o6/btl/o6b1/level/o6b1"
   },
+  "field_op/7_dt/ftm_b1": {
+    "Texture": "field_op/7_dt/ftm_b1",
+    "Center": {
+      "X": -900,
+      "Y": 700
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -920.0,
+        "Y": -1000.0,
+        "Z": 680.0
+      },
+      "Max": {
+        "X": -880.0,
+        "Y": -960.0,
+        "Z": 720.0
+      }
+    },
+    "Bg": "ex5/03_ocn_o6/btl/o6b2/level/o6b2"
+  },
+  "field_op/7_dt/ftm_b2": {
+    "Texture": "field_op/7_dt/ftm_b2",
+    "Center": {
+      "X": 600,
+      "Y": 704
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 576.0,
+        "Y": -698.0,
+        "Z": 680.0
+      },
+      "Max": {
+        "X": 624.0,
+        "Y": -650.0,
+        "Z": 728.0
+      }
+    },
+    "Bg": "ex5/03_ocn_o6/btl/o6b2/level/o6b2"
+  },
+  "field_op/7_dt/ftm_b4": {
+    "Texture": "field_op/7_dt/ftm_b4",
+    "Center": {
+      "X": 0,
+      "Y": -628
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -28.0,
+        "Y": -712.0,
+        "Z": -656.0
+      },
+      "Max": {
+        "X": 28.0,
+        "Y": -656.0,
+        "Z": -600.0
+      }
+    },
+    "Bg": "ex5/03_ocn_o6/btl/o6b2/level/o6b2"
+  },
   "savage/4_stb/o12s_p1": {
     "Texture": "savage/4_stb/o12s_p1",
     "Center": {
