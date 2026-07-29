@@ -146,8 +146,50 @@
     },
     "Bg": "ex5/03_ocn_o6/btl/o6b2/level/o6b2"
   },
+  "field_op/7_dt/ftm_b3": {
+    "Texture": "field_op/7_dt/ftm_b3",
+    "Center": {
+      "X": 100,
+      "Y": 800
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": 76.0,
+        "Y": -748.0,
+        "Z": 776.0
+      },
+      "Max": {
+        "X": 124.0,
+        "Y": -700.0,
+        "Z": 824.0
+      }
+    },
+    "Bg": "ex5/03_ocn_o6/btl/o6b2/level/o6b2"
+  },
   "field_op/7_dt/ftm_b4": {
     "Texture": "field_op/7_dt/ftm_b4",
+    "Center": {
+      "X": 0,
+      "Y": -628
+    },
+    "SizeFactor": 5000,
+    "Bounds": {
+      "Min": {
+        "X": -28.0,
+        "Y": -712.0,
+        "Z": -656.0
+      },
+      "Max": {
+        "X": 28.0,
+        "Y": -656.0,
+        "Z": -600.0
+      }
+    },
+    "Bg": "ex5/03_ocn_o6/btl/o6b2/level/o6b2"
+  },
+  "field_op/7_dt/ftm_b4_alt": {
+    "Texture": "field_op/7_dt/ftm_b4_alt",
     "Center": {
       "X": 0,
       "Y": -628
